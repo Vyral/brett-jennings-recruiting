@@ -1419,7 +1419,7 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 200px;
+    max-width: 150px;
     margin-top: -10px; } }
 @media(max-width: 347px) {
   .navbar {
@@ -1531,7 +1531,8 @@ label.tree-toggle {
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 4rem;
+    padding-top: 8rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
@@ -1544,7 +1545,13 @@ label.tree-toggle {
     padding: 1rem; } }
 @media (max-width: 400px) {
   .cta {
-    padding: 0.5rem; } }
+    padding: 0.5rem; }
+
+  .site-title {
+    font-size: 3.5rem;
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem; } }
 :root {
   font-size: 10px; }
 
