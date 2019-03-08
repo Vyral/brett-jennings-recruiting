@@ -3,14 +3,16 @@ title: "Silicon Valley's Best Real Estate Training"
 description: Brett Jennings, a top Real Estate Agent in Silicon Valley, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
-  - title: Join Us
-    url: http://therealexperts.com/careers
+  - title: Who We Are
+    url: https://www.therealexperts.com/who-we-are/
   - title: Free Strategy Call
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
   - title: Monthly Mastermind
     url: http://thrivethroughtheshift.com/
+  - title: Join Us
+    url: http://therealexperts.com/careers
 
 
 client:
@@ -73,7 +75,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Our Mission on this site is to educate Real Estate Agents on how to sell more homes.
+  # hero_text: Our Mission on this site is to educate Real Estate Agents on how to sell more homes.
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
