@@ -9,7 +9,7 @@ tags:
   - Transaction Management
 excerpt: 'Compass, Zillow, Redfin &  The Fate of Agents'
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/March/Real+Estate+Experts-+Lets+Break+Down+Where+the+Real+Estate+Industry+Is+Headed+Now.mp4
+  https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Compass%2C+Zillow%2C+Redfin+%26+The+Fate+of+Agents.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
