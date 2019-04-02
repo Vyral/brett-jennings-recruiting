@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Let’s Break Down Where the Real Estate Industry Is Headed Now
+title: 'Compass, Zillow, Redfin &  The Fate of Agents'
 date: 2019-04-01 17:53:00
 tags:
   - Buyer Prospects
   - Lead Generation
   - Lead Conversion
   - Transaction Management
-excerpt: 'Compass, Zillow, Redfin &  The Fate of Agents'
+excerpt: >-
+  Our industry is changing, so, with this message, I’d like to highlight a few
+  things agents can expect to see moving forward.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Compass%2C+Zillow%2C+Redfin+%26+The+Fate+of+Agents.mp4
 pullquote:
