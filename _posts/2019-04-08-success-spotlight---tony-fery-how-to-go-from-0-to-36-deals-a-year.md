@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Success Spotllight: Tony Fery: How to go from 0 to 36 deals a year'
-date: 2019-04-08 14:13:46
+title: 'Success Spotlight - Tony Fery: How to Go From 0 to 36 Deals a Year'
+date: 2019-04-08 14:13:00
 tags:
 excerpt: 'Rookie to Rockstar : 0 to 36 transactions/year in 3 years'
 enclosure:
@@ -14,5 +14,3 @@ youtube_code: fMZSveqnky8
 ---
 
 {% include youtube.html %}
-
-&nbsp;
