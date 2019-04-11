@@ -10,8 +10,6 @@ permalink: /strategy-call/
 <h1 class="join-us">Free Real Estate <br>Business Planning Call</h1>
 <h5 class="join-us-subtitle">DEAR FELLOW AGENT</h5>
 
-
-
 <p>Are you an agent that wants more? More leads, more clients, more closings and (the reason we are doing all of this)  more lifestyle?  My name is Brett Jennings  and over the last 8 years I have gone from selling a few homes a year to selling hundreds of homes a year right here in Silicon Valley.</p>
 
 <p>I know how challenging it is to sell real estate. You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you). It can get overwhelming to stick to a consistent business plan that makes you money.</p>
@@ -22,7 +20,7 @@ permalink: /strategy-call/
 <!-- <p>My name is ____ and I’ve sold ____ of homes to date.</p> -->
 
 <div class="testimonial-image-container">
-<img src="/img/teamphoto.jpg" class="40%">
+<img src="/img/teamphoto.jpg" class="100%">
 </div>
 
 <h1>I want to help you sell more homes</h1>
