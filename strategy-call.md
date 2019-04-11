@@ -19,7 +19,7 @@ permalink: /strategy-call/
 <!-- {% include strategy-photos.html %} -->
 <!-- <p>My name is ____ and I’ve sold ____ of homes to date.</p> -->
 
-<img src="/img/teamphoto.jpg" class="two-quarter-image">
+<img src="/img/teamphoto.jpg" class="three-quarter-image">
 
 <h1>I want to help you sell more homes</h1>
 
