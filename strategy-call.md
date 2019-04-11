@@ -56,7 +56,7 @@ permalink: /strategy-call/
 
 <p>I joined Real Estate Experts in March of 2018. Without hesitation, I can say it was the best decision I ever made. This is not just because I tripled my production in less than one year but because , through Bretts coaching , I have began to live my life's purpose. His coaching is aimed to elevate YOU as a person, NOT just as an agent. Through the coaching, leads, systems and support here I was able to do over 35 transactions in my first 9 months as a full-time agent!  So it's been great and a great place to work too.  I  love coming to the office because the people here are so uplifting, positive, and hard-working. Lastly, and most importantly, we love to have fun along the way. At Real Estate Experts - I feel like we are actually partners not just agents on a roster.</p>
 
-<br><br>
+<br>
 
 <h1>Why am I offering this?</h1>
 
