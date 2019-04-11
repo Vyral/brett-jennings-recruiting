@@ -19,9 +19,7 @@ permalink: /strategy-call/
 <!-- {% include strategy-photos.html %} -->
 <!-- <p>My name is ____ and I’ve sold ____ of homes to date.</p> -->
 
-<div class="testimonial-image-container">
-<img src="/img/teamphoto.jpg" class="100%">
-</div>
+<img src="/img/teamphoto.jpg" class="three-quarter-image">
 
 <h1>I want to help you sell more homes</h1>
 
@@ -53,9 +51,7 @@ permalink: /strategy-call/
 </div>
 <hr> -->
 
-<div class="testimonial-image-container">
-<img src="/img/nneka.jpg" class="40%">
-</div>
+<img src="/img/nneka.jpg" class="quarter-image" style="float: left; padding: 20px;">
 
 <h5>NNEKA JENKINS</h5>
 
