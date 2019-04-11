@@ -5,36 +5,39 @@ permalink: /strategy-call/
 ---
 
 <div class="recruiting-page">
-<h1 class="join-us">Free Real Estate Business Planning Call</h1>
-<h5 class="join-us-subtitle">Are you a hungry real estate agent looking for more?</h5>
+<br>
+<br>
+<h1 class="join-us">Free Real Estate <br>Business Planning Call</h1>
+<h5 class="join-us-subtitle">DEAR FELLOW AGENT</h5>
 
-<p>Dear Fellow Agent:</p>
 
-<p>Need direction and focus to sell more homes?</p>
 
-<p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
+<p>Are you an agent that wants more? More leads, more clients, more closings and (the reason we are doing all of this)  more lifestyle?  My name is Brett Jennings  and over the last 8 years I have gone from selling a few homes a year to selling hundreds of homes a year right here in Silicon Valley.</p>
 
-<p><strong>I know how challenging it is to sell real estate.</strong></p>
+<p>I know how challenging it is to sell real estate. You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you). It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
-
-<p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
+<p>If you are looking to get clarity and certainty on how to take your business to the next level I will meet with you in a one-on-one strategy session to help you craft a custom business plan that you can implement immediately to generate leads, appointments, and sales.</p>
 
 <!-- {% include strategy-photos.html %} -->
-
 <!-- <p>My name is ____ and I’ve sold ____ of homes to date.</p> -->
 
-<p>I want to help you sell more homes.</p>
+<image>
 
-<p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes.</p>
 
-<p>I also share with you what we’re doing that works to generate and sales.</p>
+<h1>I WANT TO HELP YOU SELL MORE HOMES!</h1>
 
-<p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for you.</p>
+<p>I’ll learn about your needs, goals, why you started selling real estate and what kind of lifestyle you are looking to create as you achieve your goals. I'll also offer my insight on what I would do in your situation to sell more homes.</p>
 
-<p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who want to sell their home who list with you.</p>
+<p>I also share with you exactly what we’re doing that works now to generate leads and sales.</p>
 
-<p>This will help you get the commission consistency and the freedom we all want from our business.</p>
+<p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you craft a business plan tailored just for you.</p>
+
+<p>You’ll walk away with a plan of action, with steps you can take right now to find homeowners who want to sell their home and list with you.</p>
+
+<p>This will help you get the income consistency and the freedom we all want from our business.</p>
+
+<p>But don't take my word for it. Meet one of my agents, Nneka Jenkins:</p>
+
 
 <!-- <hr>
 <div class="qanda">
@@ -51,19 +54,23 @@ permalink: /strategy-call/
 </div>
 <hr> -->
 
-<p>You don’t need to pay a bunch of money to a real estate coach.</p>
+<img>
 
-<p>Why am I offering this?</p>
+<h5>NNEKA JENKINS</h5>
 
-<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our brokerage.</p>
+<p>I joined Real Estate Experts in March of 2018. Without hesitation, I can say it was the best decision I ever made. This is not just because I tripled my production in less than one year but because , through Bretts coaching , I have began to live my life's purpose. His coaching is aimed to elevate YOU as a person, NOT just as an agent. Through the coaching, leads, systems and support here I was able to do over 35 transactions in my first 9 months as a full-time agent!  So it's been great and a great place to work too.  I  love coming to the office because the people here are so uplifting, positive, and hard-working. Lastly, and most importantly, we love to have fun along the way. At Real Estate Experts - I feel like we are actually partners not just agents on a roster.</p>
+
+<h1>Why am I offering this?</h1>
+
+<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our team/brokerage.</p>
 
 <p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
 
-<p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it.</p>
+<p>I also assume if you are active in real estate we’ll come across each other in the marketplace and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it.</p>
 
-<p><strong>I invite you to request a free one-on-one business strategy meeting with me.</strong> We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
+<p>I invite you to request a free one-on-one business strategy session with me. We can meet for coffee, of even if it’s more convenient, a phone call or a video conference works, too.</p>
 
-<p>I have a questionnaire I would like you fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
+<p>I have a questionnaire I would like you to fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 
 <p>Look forward to meeting with you. Let’s grow your business.</p>
 
