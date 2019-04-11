@@ -24,7 +24,7 @@ permalink: /strategy-call/
 <image>
 
 
-<h1>I WANT TO HELP YOU SELL MORE HOMES!</h1>
+<h1>I want to help you sell more homes</h1>
 
 <p>I’ll learn about your needs, goals, why you started selling real estate and what kind of lifestyle you are looking to create as you achieve your goals. I'll also offer my insight on what I would do in your situation to sell more homes.</p>
 
