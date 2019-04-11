@@ -19,7 +19,7 @@ permalink: /strategy-call/
 <!-- {% include strategy-photos.html %} -->
 <!-- <p>My name is ____ and I’ve sold ____ of homes to date.</p> -->
 
-<img src="/img/teamphoto.jpg" class="three-quarter-image">
+<img src="/img/teamphoto.jpg" class="two-quarter-image">
 
 <h1>I want to help you sell more homes</h1>
 
@@ -34,7 +34,6 @@ permalink: /strategy-call/
 <p>This will help you get the income consistency and the freedom we all want from our business.</p>
 
 <p>But don't take my word for it. Meet one of my agents, Nneka Jenkins:</p>
-
 
 <!-- <hr>
 <div class="qanda">
@@ -56,6 +55,8 @@ permalink: /strategy-call/
 <h5>NNEKA JENKINS</h5>
 
 <p>I joined Real Estate Experts in March of 2018. Without hesitation, I can say it was the best decision I ever made. This is not just because I tripled my production in less than one year but because , through Bretts coaching , I have began to live my life's purpose. His coaching is aimed to elevate YOU as a person, NOT just as an agent. Through the coaching, leads, systems and support here I was able to do over 35 transactions in my first 9 months as a full-time agent!  So it's been great and a great place to work too.  I  love coming to the office because the people here are so uplifting, positive, and hard-working. Lastly, and most importantly, we love to have fun along the way. At Real Estate Experts - I feel like we are actually partners not just agents on a roster.</p>
+
+<br><br>
 
 <h1>Why am I offering this?</h1>
 
