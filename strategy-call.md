@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Free Strategy Call
+title: Real Estate Strategy Call
 permalink: /strategy-call/
 ---
 
