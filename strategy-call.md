@@ -50,7 +50,7 @@ permalink: /strategy-call/
 </div>
 <hr> -->
 
-<img src="/img/nneka.jpg" class="half-image" style="float: left; padding: 20px;">
+<img src="/img/nneka.jpg" class="post-image" style="float: left; padding: 20px;">
 
 <h5>NNEKA JENKINS</h5>
 
