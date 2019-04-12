@@ -19,7 +19,7 @@ permalink: /strategy-call/
 <!-- {% include strategy-photos.html %} -->
 <!-- <p>My name is ____ and I’ve sold ____ of homes to date.</p> -->
 
-<img src="/img/teamphoto.jpg" class="three-quarter-image">
+<img src="/img/teamphoto.jpg" class="post-image">
 
 <h1>I want to help you sell more homes</h1>
 
@@ -50,7 +50,7 @@ permalink: /strategy-call/
 </div>
 <hr> -->
 
-<img src="/img/nneka.jpg" class="quarter-image" style="float: left; padding: 20px;">
+<img src="/img/nneka.jpg" class="half-image" style="float: left; padding: 20px;">
 
 <h5>NNEKA JENKINS</h5>
 
