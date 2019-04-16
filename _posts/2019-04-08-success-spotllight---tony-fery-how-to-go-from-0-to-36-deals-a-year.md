@@ -47,6 +47,6 @@ Without further ado, I’m super excited to introduce today’s guest: Tony Fery
 
 Thanks for tuning in for this segment in our “Agent Success” series\!&nbsp;
 
-If you’d like more information on how you can double your business year over year and you’re trying to go to the next level, please grab a time slot on the calendar **[here](https://bearealexpert.com/strategy-call/){: target="_blank"}** to schedule a 30-minute strategy session. Or you can register for our Monthly Mastermind **[here](https://docs.google.com/forms/d/e/1FAIpQLSdupJkt2cjDwMzfiFaH0Sl7SdLa_cPfnolaCEiGE5O6_84HSA/viewform){: target="_blank"}**\! Lastly, click here for our double-your-business webinar where we open our own business playbook for you\!&nbsp;
+If you’d like more information on how you can double your business year over year and you’re trying to go to the next level, please [**grab a time slot on the calendar here**](https://bearealexpert.com/strategy-call/){: target="_blank"} to schedule a 30-minute strategy session. Or you can [**register for our Monthly Mastermind** **here**](https://docs.google.com/forms/d/e/1FAIpQLSdupJkt2cjDwMzfiFaH0Sl7SdLa_cPfnolaCEiGE5O6_84HSA/viewform){: target="_blank"}\! Lastly, click here for our double-your-business webinar where we open our own business playbook for you\!&nbsp;
 
 If you have any other questions, don’t hesitate to reach out to our team. We look forward to hearing from you\! Remember: Don’t just be an agent—be the expert.
