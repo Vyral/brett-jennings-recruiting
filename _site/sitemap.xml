@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2018-05-10T00:00:00-05:00</lastmod>
+<loc>localhost:4000/the-journey-from-agent-to-ceo-how-to-grow-from-10-130-deals-per-year.html</loc>
+<lastmod>2019-04-16T13:07:45-05:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2018-05-07T00:00:00-05:00</lastmod>
+<loc>localhost:4000/success-spotllight-tony-fery-how-to-go-from-0-to-36-deals-a-year.html</loc>
+<lastmod>2019-04-08T09:13:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/compass-zillow-redfin-the-fate-of-agents.html</loc>
+<lastmod>2019-04-01T12:53:00-05:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/404.html</loc>

@@ -1332,7 +1332,7 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #000;
+  border-bottom: 2px solid #000000;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -1432,7 +1432,7 @@ html[xmlns] .flexslider .slides {
     display: none;
     opacity: 0; } }
 .navbar-andross-bottom {
-  background: #000;
+  background: #000000;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -1504,8 +1504,8 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #364F81);
-  filter: drop-shadow(0px 2px 7px #364F81); }
+  -webkit-filter: drop-shadow(0px 2px 7px #364f81);
+  filter: drop-shadow(0px 2px 7px #364f81); }
 
 .site-title {
   color: #fff;
@@ -1515,8 +1515,8 @@ label.tree-toggle {
   padding-top: 5rem;
   width: 75%;
   margin-left: 13%;
-  -webkit-filter: drop-shadow(0px 2px 7px #364F81);
-  filter: drop-shadow(0px 2px 7px #364F81); }
+  -webkit-filter: drop-shadow(0px 2px 7px #364f81);
+  filter: drop-shadow(0px 2px 7px #364f81); }
 
 @media (max-width: 1100px) {
   .site-title {
@@ -1873,6 +1873,12 @@ table tr, table td {
   margin: 0 auto;
   width: 75%; }
 
+@media(max-width: 767px) {
+  .quarter-image {
+    width: 50%; }
+
+  .half-image {
+    width: 75%; } }
 .post-image-container {
   padding: 0; }
 
@@ -1978,7 +1984,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px #364F81; }
+  text-shadow: 0px 2px 7px #364f81; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1993,7 +1999,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px #364F81;
+  text-shadow: 0px 2px 7px #364f81;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2004,7 +2010,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px #364F81;
+  text-shadow: 0px 2px 7px #364f81;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2614,7 +2620,7 @@ form select {
       transform: translateY(0rem); }
 
 .cta {
-  background: transparent;
+  background: rgba(0, 0, 0, 0);
   color: #123456;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2730,8 +2736,8 @@ form select {
   max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #364F81);
-  filter: drop-shadow(0px 2px 7px #364F81); }
+  -webkit-filter: drop-shadow(0px 2px 7px #364f81);
+  filter: drop-shadow(0px 2px 7px #364f81); }
 
 .page-hero-img {
   background-position: center;
