@@ -23,7 +23,7 @@ Welcome to Episode 2 of our “Agent Success” series\!&nbsp;
 
 In this series, I hold interviews with some of our team’s up-and-coming stars in the sphere of real estate and pick their brain about their journey—where they come from, their challenges along the way, and where they’re headed.
 
-Without further ado, I’m super excited to introduce today’s guest: Tony Fery. Our friendship actually predates his emergence in real estate, and as someone fairly new to the industry, he’s already on pace to do 36 transactions in this year alone. He’s certainly proven to be an asset to our team. &nbsp;
+Without further ado, I’m super excited to introduce today’s guest: Tony Fery. Our friendship actually predates his emergence in real estate, and as someone fairly new to the industry, he’s already on pace to do 36 transactions this year alone. He’s certainly proven to be an asset to our team. &nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in our interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
