@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Success Spotllight - Tony Fery:  How to Go From 0 to 36 Deals a Year'
+title: 'Success Spotlight - Tony Fery:  How to Go From 0 to 36 Deals a Year'
 date: 2019-04-08 14:13:00
 tags:
   - Reviews and Referrals
@@ -8,7 +8,7 @@ excerpt: >-
   Hear how Tony Fery came into the Real Estate Experts model and doubled his
   business every year.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Success+Spotllight+-+Tony+Fery-+How+to+Go+From+0+to+36+Deals+a+Year.mp4
+  https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Success+Spotlight+-+Tony+Fery-+How+to+Go+From+0+to+36+Deals+a+Year.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
