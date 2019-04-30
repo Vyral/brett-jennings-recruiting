@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Journey From Agent to CEO: How to Grow From 10 -130 Deals per Year'
+title: How to Go From Agent to CEO of Your Real Estate Business
 date: 2019-04-16 18:07:00
 tags:
   - Lead Conversion
