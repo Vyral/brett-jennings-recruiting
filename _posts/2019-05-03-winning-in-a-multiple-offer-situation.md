@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winning in a Multiple-Offer Situation
-date: 2019-05-03 17:26:32
+date: 2019-05-03 17:26:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: hrCcBO5t8bM
 
 {% include youtube.html %}
 
-Here are seven strategies you can use to help you buyers win out in a multiple-offer situation:&nbsp;
+Here are seven strategies you can use to help your buyers win out in a multiple-offer situation:&nbsp;
 
 **1\. Know the market.** By this I mean you need to study the recent comparable sales and, more importantly, the most recent pending sales.&nbsp;
 
