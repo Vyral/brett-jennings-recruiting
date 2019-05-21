@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Nneka Jenkins Developed a Successful Career With Real Estate Experts
+title: How Nneka Jenkins Developed a Successful Career With Us
 date: 2019-05-20 17:32:00
 tags:
   - Reviews and Referrals
@@ -8,7 +8,7 @@ excerpt: >-
   In today’s video, I want to share the story of Nneka Jenkins, who, despite her
   background outside real estate, has become quite the successful agent.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/May/Real+Estate+Experts-+How+Nneka+Jenkins+Developed+a+Successful+Career+With+Real+Estate+Experts.mp4
+  https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/May/Real+Estate+Experts-+How+Nneka+Jenkins+Developed+a+Successful+Career+With+Us.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
