@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How This Agent Developed a Successful Career in Real Estate
-date: 2019-05-20 17:32:06
+title: How Nneka Jenkins Developed a Successful Career With Real Estate Experts
+date: 2019-05-20 17:32:00
 tags:
   - Reviews and Referrals
 excerpt: >-
