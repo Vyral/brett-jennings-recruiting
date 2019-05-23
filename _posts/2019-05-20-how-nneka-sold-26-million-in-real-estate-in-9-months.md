@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Nneka Jenkins Developed a Successful Career With Us
+title: How Nneka Sold $26 Million in Real Estate in 9 Months
 date: 2019-05-20 17:32:00
 tags:
   - Reviews and Referrals
