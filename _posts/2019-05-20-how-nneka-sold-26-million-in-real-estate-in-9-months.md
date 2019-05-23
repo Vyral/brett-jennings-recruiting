@@ -8,7 +8,7 @@ excerpt: >-
   In today’s video, I want to share the story of Nneka Jenkins, who, despite her
   background outside real estate, has become quite the successful agent.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/May/Real+Estate+Experts-+How+Nneka+Jenkins+Developed+a+Successful+Career+With+Us.mp4
+  https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/May/Real+Estate+Experts-+How+Nneka+Sold+%2426+Million+in+Real+Estate+in+9+Months.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
