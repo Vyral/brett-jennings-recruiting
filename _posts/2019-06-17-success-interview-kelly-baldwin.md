@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Success Interview: Kelly Baldwin'
-date: 2019-06-17 18:13:42
+date: 2019-06-17 18:13:00
 tags:
   - Reviews and Referrals
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: rXxZY9bW7dk
 
 Welcome to Episode No. 3 of our “Agent Success” series\!&nbsp;
 
-Today I have the great privilege of sitting down with and shining the spotlight on Kelly Baldwin. The story of Kelly and I’s meeting began when she happened to be renting a vacation property that I own in Lake Tahoe. As a result, we forged a friendship and she decided to break into real estate.&nbsp;
+Today I have the great privilege of sitting down with and shining the spotlight on Kelly Baldwin. The story of our meeting began when she happened to be renting a vacation property that I own in Lake Tahoe. As a result, we forged a friendship and she decided to break into real estate.&nbsp;
 
 Just five months into full production, she’s already closed 13 transactions to the tune of $15 million in business and is on pace to close an amazing 30 transactions by the end of 2019. &nbsp; &nbsp; &nbsp;
 
@@ -41,7 +41,7 @@ Just five months into full production, she’s already closed 13 transactions to
 
 11:45—How has Kelly’s experience been in the culture we’ve worked to foster?&nbsp;
 
-13:45—In closing, what can Kelly most attributed to her success and personal growth?&nbsp;
+13:45—In closing, what can Kelly most attribute to her success and personal growth?&nbsp;
 
 Thanks for tuning in for this segment in our “Agent Success” series, and I appreciate Kelly taking some time to share her experience working with our team so far\!&nbsp;
 
