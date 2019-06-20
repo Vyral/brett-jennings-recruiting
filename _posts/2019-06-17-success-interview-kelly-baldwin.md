@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/kelly-baldwin-youtube.jpg
+youtube_alternate_image: /uploads/kelly-baldwin-youtube-02.jpg
 youtube_code: rXxZY9bW7dk
 ---
 
