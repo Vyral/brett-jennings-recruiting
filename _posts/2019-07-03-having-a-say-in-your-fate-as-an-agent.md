@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Having a Say in Your Fate as an Agent
-date: 2019-07-03 17:41:31
+date: 2019-07-03 17:41:00
 tags:
   - Transaction Management
 excerpt: What’s happening with disruptive companies like Opendoor and Redfin?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/July/Real+Estate+Experts-+Having+a+Say+in+Your+Fate+as+an+Agent.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
