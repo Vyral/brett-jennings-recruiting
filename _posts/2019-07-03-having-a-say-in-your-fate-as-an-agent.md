@@ -31,7 +31,7 @@ Let’s explore this a little today.&nbsp;
 
 5:00—Which players make up the largest base in the middle
 
-7:44—Zillow’s approach to deciding where the best leads go: Solo agents, teams, or brokerages&nbsp;
+7:44—Zillow’s approach to deciding where the best leads go: solo agents, teams, or brokerages&nbsp;
 
 8:35—What does all of this mean for you?&nbsp;
 
