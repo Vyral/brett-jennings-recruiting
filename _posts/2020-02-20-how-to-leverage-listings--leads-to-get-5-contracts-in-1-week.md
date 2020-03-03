@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hear From an Agent Who Joined Us
+title: How to Leverage Listings & Leads to Get 5 Contracts in 1 Week
 date: 2020-02-20 23:04:00
 tags:
   - Reviews and Referrals
