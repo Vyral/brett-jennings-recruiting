@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Leverage Listings & Leads to Get 5 Contracts in 1 Wee
+title: How to Leverage Listings & Leads to Get 5 Contracts in 1 Week
 date: 2020-02-20 23:04:00
 tags:
   - Reviews and Referrals
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/don-mitchell-youtube.jpg
+youtube_alternate_image: /uploads/don-mitchell-youtube-02.jpg
 youtube_code: B47YnT93O_I
 ---
 
