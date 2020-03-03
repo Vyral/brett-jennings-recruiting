@@ -13,7 +13,7 @@ pullquote: 'Since Don joined the Real Estate Experts, his business has been expl
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/app-cloudcannon.jpg
+youtube_alternate_image: /uploads/app-cloudcannon-1.jpg
 youtube_code: B47YnT93O_I
 ---
 
