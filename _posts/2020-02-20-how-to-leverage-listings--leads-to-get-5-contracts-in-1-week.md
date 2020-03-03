@@ -9,7 +9,7 @@ excerpt: >-
   exploded once he began working with us.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Hear+From+an+Agent+Who+Joined+Us.mp4
-pullquote: 'Since Don joined the Real Estate Experts, his business has been exploding!'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
