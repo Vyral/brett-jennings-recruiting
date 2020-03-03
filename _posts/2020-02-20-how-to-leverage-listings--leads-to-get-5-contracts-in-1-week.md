@@ -19,14 +19,14 @@ youtube_code: B47YnT93O_I
 
 {% include youtube.html %}
 
-Don Mitchell and I have known each other for quite some time—he’s been in the real estate business for over 20 years, and I met him when I was first getting started 12 years ago. I wanted to share his success story with you. We’ve decided to partner up, and since Don joined the Real Estate Experts Group, his business has been exploding\! **In the last week alone he’s gotten five contracts, which is between five and six million dollars in sales.&nbsp;**
+Don Mitchell and I have known each other for quite some time—he’s been in the real estate business for over 20 years, and I met him when I was first getting started 12 years ago. I wanted to share his success story with you. We’ve decided to partner up, and since Don joined the Real Estate Experts Group, his business has been exploding\! **In the last week alone he’s gotten five contracts, which is between five and six million dollars in sales.**
 
-Real estate is a roller coaster, and I wanted to make sure great, solo agents could benefit from being a part of our group. Don isn’t directly part of my team, but he’s able to take advantage of all the leverage, leads, systems, and support we offer. Don’s goal is to help 40 families move this year, and he’s already well on his way to that objective.&nbsp;
+Real estate is a roller coaster, and I wanted to make sure great, solo agents could benefit from being a part of our group. Don isn’t directly part of my team, but he’s able to take advantage of all the leverage, leads, systems, and support we offer. Don’s goal is to help 40 families move this year, and he’s already well on his way to that objective.
 
 {% include pullquote.html %}
 
 Don says it doesn’t matter how long you’ve been in the business, as long as you’re coachable. If you can understand and then implement the systems you’re taught, it works wonderfully. “Don’t worry about being perfect,” he says. “Right now is about making things happen.” I know Don is going to reach his goals this year\!
 
-**If you’re considering growing your business, that’s what we want to help you do.** If you’re currently doing between five and 20 deals per year and you want to make between 15 and 50 deals per year, that’s achievable. We can help you do it because we have put a ton of time into developing these systems and making sure they work.&nbsp;
+**If you’re considering growing your business, that’s what we want to help you do.** If you’re currently doing between five and 20 deals per year and you want to make between 15 and 50 deals per year, that’s achievable. We can help you do it because we have put a ton of time into developing these systems and making sure they work.
 
 If you have any questions about our business or how you can get involved, please reach out to us via phone or email. We would love to speak with you\!
