@@ -21,7 +21,7 @@ youtube_code: B47YnT93O_I
 
 {% include youtube.html %}
 
-Don Mitchell and I have known each other for quite some time—he’s been in the real estate business for over 20 years, and I met him when I was first getting started 12 years ago. I wanted to share his success story with you. We’ve decided to partner up, and since Don joined the Real Estate Experts Group, his business has been exploding\! **In the last week alone he’s gotten five contracts, which is between five and six million dollars in sales. &nbsp;**
+Don Mitchell and I have known each other for quite some time—he’s been in the real estate business for over 20 years, and I met him when I was first getting started 12 years ago. I wanted to share his success story with you. We’ve decided to partner up, and since Don joined the Real Estate Experts Group, his business has been exploding\! **In the last week alone he’s gotten five contracts, which is between five and six million dollars in sales.**
 
 Real estate is a roller coaster, and I wanted to make sure great, solo agents could benefit from being a part of our group. Don isn’t directly part of my team, but he’s able to take advantage of all the leverage, leads, systems, and support we offer. Don’s goal is to help 40 families move this year, and he’s already well on his way to that objective.&nbsp;
 
