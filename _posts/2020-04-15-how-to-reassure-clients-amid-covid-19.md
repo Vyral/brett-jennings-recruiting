@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Reassure Clients Amid COVID-19
-date: 2020-04-15 21:25:05
+date: 2020-04-15 21:25:00
 tags:
   - Buyer Prospects
   - Transaction Management
@@ -20,6 +20,6 @@ youtube_code: jvBPQpB5IBI
 
 {% include youtube.html %}
 
-Today I’m sharing some tips for how you can reassure your clients through these difficult times. Any client right now has some uncertainty or fear about the coronavirus, the market, and where things may be heading. First, during a crisis or crash, real estate is still the safest place to be. It’s not as if we haven’t seen crises and crashes before. In 2008 we had both the financial collapse and the colossal recession that followed.
+Today I’m sharing some tips for how you can reassure your clients in these difficult times. Any client right now has some uncertainty or fear about the coronavirus, the market, and where things may be heading. First, during a crisis or crash, real estate is still the safest place to be. It’s not as if we haven’t seen crises and crashes before. In 2008 we had both the financial collapse and the colossal recession that followed.
 
 If you have any more questions, don’t hesitate to reach out to me\! I’d love to be of value to you, so just let me know what I can do to help.
