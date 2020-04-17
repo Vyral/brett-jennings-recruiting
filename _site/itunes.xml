@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Silicon Valley Real Estate Podcast with Brett Jennings</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Brett Jennings Real Estate Experts - your professional Silicon Valley Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Brett Jennings</managingEditor>
-    <lastBuildDate>2019-04-16 13:48:42 -0500</lastBuildDate>
+    <lastBuildDate>2020-04-17 13:38:11 -0500</lastBuildDate>
     <media:copyright>Brett Jennings</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,20 +18,172 @@
     </itunes:owner>
     <itunes:author>Brett Jennings</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Silicon Valley Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Brett Jennings Real Estate Experts - your professional Silicon Valley Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>The Journey From Agent to CEO: How to Grow From 10 -130 Deals per Year</title>
-        <link>localhost:4000/the-journey-from-agent-to-ceo-how-to-grow-from-10-130-deals-per-year.html</link>
+        <title>Bring Calm to Clients in Times of Crisis</title>
+        <link>http://localhost:4000/bring-calm-to-clients-in-times-of-crisis.html</link>
+        
+          <category>Buyer Prospects</category>
+        
+          <category>Transaction Management</category>
+        
+        <author>Brett Jennings</author>
+        <pubDate>2020-04-15 16:25:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Bring+Calm+to+Clients+in+Times+of+Crisis.mp4</guid>
+        <description>
+
+Today I’m sharing some tips for how you can reassure your clients in these difficult times. Any client right now has some uncertainty or fear about the coronavirus, the market, and where things may be heading. During a crisis or crash, real estate is still the safest place to be. It’s not as if we haven’t seen crises and crashes before. In 2008 we had both the financial collapse and the colossal recession that followed.
+
+If you have any more questions, don’t hesitate to reach out to me! I’d love to be of value to you, so just let me know what I can do to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Bring+Calm+to+Clients+in+Times+of+Crisis.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Bring+Calm+to+Clients+in+Times+of+Crisis.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Right now clients are uncertain about many things. I’m sharing how to reassure them that this isn’t as big of a market crisis as it may seem.</itunes:subtitle>
+        <itunes:author>Brett Jennings</itunes:author>
+        <itunes:summary>Right now clients are uncertain about many things. I’m sharing how to reassure them that this isn’t as big of a market crisis as it may seem.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Leverage Listings & Leads to Get 5 Contracts in 1 Week</title>
+        <link>http://localhost:4000/how-to-leverage-listings-leads-to-get-5-contracts-in-1-week.html</link>
+        
+          <category>Reviews and Referrals</category>
+        
+        <author>Brett Jennings</author>
+        <pubDate>2020-02-20 17:04:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Hear+From+an+Agent+Who+Joined+Us.mp4</guid>
+        <description>
+
+Don Mitchell and I have known each other for quite some time—he’s been in the real estate business for over 20 years, and I met him when I was first getting started 12 years ago. I wanted to share his success story with you. We’ve decided to partner up, and since Don joined the Real Estate Experts Group, his business has been exploding! In the last week alone he’s gotten five contracts, which is between five and six million dollars in sales.
+
+Real estate is a roller coaster, and I wanted to make sure great, solo agents could benefit from being a part of our group. Don isn’t directly part of my team, but he’s able to take advantage of all the leverage, leads, systems, and support we offer. Don’s goal is to help 40 families move this year, and he’s already well on his way to that objective.
+
+“Since Don joined the Real Estate Experts, his business has been exploding!”
+
+Don says it doesn’t matter how long you’ve been in the business, as long as you’re coachable. If you can understand and then implement the systems you’re taught, it works wonderfully. “Don’t worry about being perfect,” he says. “Right now is about making things happen.” I know Don is going to reach his goals this year!
+
+If you’re considering growing your business, that’s what we want to help you do. If you’re currently doing between five and 20 deals per year and you want to make between 15 and 50 deals per year, that’s achievable. We can help you do it because we have put a ton of time into developing these systems and making sure they work.
+
+If you have any questions about our business or how you can get involved, please reach out to us via phone or email. We would love to speak with you!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Hear+From+an+Agent+Who+Joined+Us.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Hear+From+an+Agent+Who+Joined+Us.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m sharing my friend Don Mitchell’s success story about how his business exploded once he began working with us.</itunes:subtitle>
+        <itunes:author>Brett Jennings</itunes:author>
+        <itunes:summary>I’m sharing my friend Don Mitchell’s success story about how his business exploded once he began working with us.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Having a Say in Your Fate as an Agent</title>
+        <link>http://localhost:4000/having-a-say-in-your-fate-as-an-agent.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>Brett Jennings</author>
+        <pubDate>2019-07-03 12:41:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/July/Real+Estate+Experts-+Having+a+Say+in+Your+Fate+as+an+Agent.mp4</guid>
+        <description>
+
+Today’s focus is on something that has the real estate industry buzzing with conversation lately: What’s happening with disruptive companies like Opendoor and Redfin? More importantly, what fate is destined for the real estate agent amid all of this? 
+
+Let’s explore this a little today. 
+
+Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics that interest you most: 
+
+0:50—A brief explanation of the insights I gained by attending Inman’s “Disconnect” event
+
+1:40—Who the players are and what the market looks like 
+
+4:15—The piece of the market that each major “player” is projected to capture
+
+5:00—Which players make up the largest base in the middle
+
+7:44—Zillow’s approach to deciding where the best leads go: solo agents, teams, or brokerages 
+
+8:35—What does all of this mean for you? 
+
+10:05—Given the current and future landscape, how can you position yourself ahead of this opportunity? 
+
+I hope you found this conversation helpful. If you have any questions in regard to today’s topic or anything else, don’t hesitate to reach out to me. Until next time, remember: Don’t just be an agent. Be the expert.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/July/Real+Estate+Experts-+Having+a+Say+in+Your+Fate+as+an+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/July/Real+Estate+Experts-+Having+a+Say+in+Your+Fate+as+an+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What’s happening with disruptive companies like Opendoor and Redfin?</itunes:subtitle>
+        <itunes:author>Brett Jennings</itunes:author>
+        <itunes:summary>What’s happening with disruptive companies like Opendoor and Redfin?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Success Interview: Kelly Baldwin</title>
+        <link>http://localhost:4000/success-interview-kelly-baldwin.html</link>
+        
+          <category>Reviews and Referrals</category>
+        
+        <author>Brett Jennings</author>
+        <pubDate>2019-06-17 13:13:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/June/Real+Estate+Experts-+Success+Interview-+Kelly+Baldwin.mp4</guid>
+        <description>
+
+Welcome to Episode No. 3 of our “Agent Success” series! 
+
+Today I have the great privilege of sitting down with and shining the spotlight on Kelly Baldwin. The story of our meeting began when she happened to be renting a vacation property that I own in Lake Tahoe. As a result, we forged a friendship and she decided to break into real estate. 
+
+Just five months into full production, she’s already closed 13 transactions to the tune of $15 million in business and is on pace to close an amazing 30 transactions by the end of 2019.      
+
+Cited below for your convenience are timestamps that will direct you to various points in our interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: 
+
+1:58—What was Kelly doing before getting into real estate and what led her to pursue this new path? 
+
+4:30—What was her first position with the team? 
+
+6:12—How many real estate-related conversations did Kelly have versus the number of people she called in her first month? 
+
+7:08—What ultimately inspired Kelly to join our team? 
+
+8:22—How much was uncertainty a factor for Kelly in the beginning? How did she persevere in spite of those feelings? 
+
+9:37—Where does she foresee her career in real estate headed? What life goals have been made possible thanks to this new direction? 
+
+11:45—How has Kelly’s experience been in the culture we’ve worked to foster? 
+
+13:45—In closing, what can Kelly most attribute to her success and personal growth? 
+
+Thanks for tuning in for this segment in our “Agent Success” series, and I appreciate Kelly taking some time to share her experience working with our team so far! 
+
+If you’d like more information on how you can double your business year over year and you’re trying to get to the next level, go ahead and surf through our blog. Also, register for our monthly mastermind group to receive our monthly updates and training video on our success-driven tactics and strategies.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/June/Real+Estate+Experts-+Success+Interview-+Kelly+Baldwin.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2019/June/Real+Estate+Experts-+Success+Interview-+Kelly+Baldwin.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Kelly Baldwin is our latest featured agent in this third edition of our “Agent Success” series.</itunes:subtitle>
+        <itunes:author>Brett Jennings</itunes:author>
+        <itunes:summary>Kelly Baldwin is our latest featured agent in this third edition of our “Agent Success” series.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Go From Agent to CEO of Your Real Estate Business</title>
+        <link>http://localhost:4000/how-to-go-from-agent-to-ceo-of-your-real-estate-business.html</link>
         
           <category>Lead Conversion</category>
         
         <author>Brett Jennings</author>
-        <pubDate>2019-04-16 13:07:45 -0500</pubDate>
+        <pubDate>2019-06-03 13:07:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+The+Journey+From+Agent+to+CEO-+How+to+Grow+From+10+-130+Deals+per+Year.mp4</guid>
         <description>
 
@@ -52,7 +204,7 @@ After this, you need predictable, scalable lead generation. Most agents only uti
 If you have any other questions, feel free to reach out to me. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+The+Journey+From+Agent+to+CEO-+How+to+Grow+From+10+-130+Deals+per+Year.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+The+Journey+From+Agent+to+CEO-+How+to+Grow+From+10+-130+Deals+per+Year.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>I became the CEO of my own real estate business in three years. You can do it too, and here’s how.</itunes:subtitle>
@@ -62,14 +214,86 @@ If you have any other questions, feel free to reach out to me. I look forward to
       </item>
       
       <item>
-        <title>Success Spotllight - Tony Fery:  How to Go From 0 to 36 Deals a Year</title>
-        <link>localhost:4000/success-spotllight-tony-fery-how-to-go-from-0-to-36-deals-a-year.html</link>
+        <title>How Nneka Sold $26 Million in Real Estate in 9 Months</title>
+        <link>http://localhost:4000/how-nneka-sold-26-million-in-real-estate-in-9-months.html</link>
+        
+          <category>Reviews and Referrals</category>
+        
+        <author>Brett Jennings</author>
+        <pubDate>2019-05-20 12:32:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/May/Real+Estate+Experts-+How+Nneka+Sold+%2426+Million+in+Real+Estate+in+9+Months.mp4</guid>
+        <description>
+
+Both before and after joining the Real Estate Experts, Nneka Jenkins has had quite the journey in real estate. Today I sat down with her to talk about her story of success and what she has achieved since joining our team.
+
+Cited below for your convenience are timestamps that will direct you to various points in the interview. Feel free to watch the full video or use these timestamps to browse specific topics at your leisure: 
+
+0:50—Her journey prior to joining the Real Estate Experts5:00—On joining the Real Estate Experts: Adjusting to a new environment and new practices9:20—What were Nneka’s business practices like before joining the team? After?12:10—Nneka’s first year as an agent was hugely successful. How much has she accomplished in the first quarter of 2019 so far?12:50—Nneka’s advice for agents who are looking to do more business; mastering your sphere of influence15:45—Nneka’s outlook on the future in terms of her career and her lifestyle17:40—Closing remarks
+
+I’m so thankful for Nneka taking the time to share the intimate details of her journey with me. We’re thrilled to work with her, and I’m excited to see the next chapter of her business as it progresses.
+
+If you have any questions about improving your career in real estate or joining the Real Estate Experts team, don’t hesitate to reach out to me. I’d love to speak with you. And remember: Don’t just be an agent—be an expert.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/May/Real+Estate+Experts-+How+Nneka+Sold+%2426+Million+in+Real+Estate+in+9+Months.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/May/Real+Estate+Experts-+How+Nneka+Sold+%2426+Million+in+Real+Estate+in+9+Months.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>In today’s video, I want to share the story of Nneka Jenkins, who, despite her background outside real estate, has become quite the successful agent.</itunes:subtitle>
+        <itunes:author>Brett Jennings</itunes:author>
+        <itunes:summary>In today’s video, I want to share the story of Nneka Jenkins, who, despite her background outside real estate, has become quite the successful agent.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Winning in a Multiple-Offer Situation</title>
+        <link>http://localhost:4000/winning-in-a-multiple-offer-situation.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>Brett Jennings</author>
+        <pubDate>2019-05-03 12:26:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/May/Real+Estate+Experts-+How+to+Win+in+a+Multiple+Offer+Situation.mp4</guid>
+        <description>
+
+Here are seven strategies you can use to help your buyers win out in a multiple-offer situation: 
+
+1. Know the market. By this I mean you need to study the recent comparable sales and, more importantly, the most recent pending sales. 
+
+2. Go big or go homeless. Obviously, you want to make an offer that’s higher than the last known comparable pending sale. If there were four offers on a recent pending sale, that means three buyers who lost out on the home will be looking to offer a higher price the next time around. 
+
+3. Consider using an escalation clause. This is an addendum to your client’s purchase agreement that guarantees they’ll offer a higher price than the next highest offer up to a certain amount. Talk to the listing agent before you use this clause, though, because some agents have never seen it before and might not understand how it works. 
+
+“In a quick market like ours, the first person to the party is often the winner.”
+
+4. Waive as many contingencies as possible. Get your buyer pre-approved before they make an offer so that they aren’t carrying any loan or appraisal contingencies with them. Many sellers in the Bay Area also do pre-inspections, so if you and your client are comfortable trusting a pre-inspection, you can waive your own inspection contingency. If the seller hasn’t done a pre-inspection, you can still get the inspection contingency waived by asking the listing agent to have it done prior to making your offer. 
+
+5. Put down a huge earnest money deposit. A customary earnest money deposit in our area is 3% of the purchase price. If your buyer has the funds, have them put down 10%. Your client’s not taking on any more risk, because the liquidated damages clause maximizes liquidated damages at 3%.
+
+6. Write a love letter to the seller. Writing a love letter has helped our team’s clients win out in a multiple-offer situation even when they didn’t offer the highest price. Have your client include pictures of their own family, and if possible, have them shoot a quick video on their phone that you can then text or email the listing agent. 
+
+7. Create urgency. In a quick market like ours, the first person to the party is often the winner. With that in mind, consider sending a pre-emptive offer to the listing agent. They have an obligation to show the seller that offer, so you don’t need to ask permission. 
+
+If you have any more questions about how to come out on top in a multiple-offer situation, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/May/Real+Estate+Experts-+How+to+Win+in+a+Multiple+Offer+Situation.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/May/Real+Estate+Experts-+How+to+Win+in+a+Multiple+Offer+Situation.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you want your buyers to win out in a multiple-offer situation, follow these seven strategies.</itunes:subtitle>
+        <itunes:author>Brett Jennings</itunes:author>
+        <itunes:summary>If you want your buyers to win out in a multiple-offer situation, follow these seven strategies.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Silicon Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Success Spotlight - Tony Fery:  How to Go From 0 to 36 Deals a Year</title>
+        <link>http://localhost:4000/success-spotlight-tony-fery-how-to-go-from-0-to-36-deals-a-year.html</link>
         
           <category>Reviews and Referrals</category>
         
         <author>Brett Jennings</author>
         <pubDate>2019-04-08 09:13:00 -0500</pubDate>
-        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Success+Spotllight+-+Tony+Fery-+How+to+Go+From+0+to+36+Deals+a+Year.mp4</guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Success+Spotlight+-+Tony+Fery-+How+to+Go+From+0+to+36+Deals+a+Year.mp4</guid>
         <description>
 
 Welcome to Episode 2 of our “Agent Success” series! 
@@ -100,13 +324,13 @@ Cited below for your convenience are timestamps that will direct you to various 
 
 Thanks for tuning in for this segment in our “Agent Success” series! 
 
-If you’d like more information on how you can double your business year over year and you’re trying to go to the next level, please grab a time slot on the calendar here to schedule a 30-minute strategy session. Or you can register for our Monthly Mastermind here! Lastly, click here for our double-your-business webinar where we open our own business playbook for you! 
+If you’d like more information on how you can double your business year over year and you’re trying to go to the next level, please grab a time slot on the calendar here to schedule a 30-minute strategy session. Or you can register for our Monthly Mastermind here!
 
 If you have any other questions, don’t hesitate to reach out to our team. We look forward to hearing from you! Remember: Don’t just be an agent—be the expert.
 </description>
-        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Success+Spotllight+-+Tony+Fery-+How+to+Go+From+0+to+36+Deals+a+Year.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Success+Spotllight+-+Tony+Fery-+How+to+Go+From+0+to+36+Deals+a+Year.mp4" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Success+Spotlight+-+Tony+Fery-+How+to+Go+From+0+to+36+Deals+a+Year.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Success+Spotlight+-+Tony+Fery-+How+to+Go+From+0+to+36+Deals+a+Year.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Hear how Tony Fery came into the Real Estate Experts model and doubled his business every year.</itunes:subtitle>
         <itunes:author>Brett Jennings</itunes:author>
@@ -116,7 +340,7 @@ If you have any other questions, don’t hesitate to reach out to our team. We l
       
       <item>
         <title>Compass, Zillow, Redfin &  The Fate of Agents</title>
-        <link>localhost:4000/compass-zillow-redfin-the-fate-of-agents.html</link>
+        <link>http://localhost:4000/compass-zillow-redfin-the-fate-of-agents.html</link>
         
           <category>Buyer Prospects</category>
         
@@ -156,7 +380,7 @@ Cited below for your convenience are timestamps that will direct you to various 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Compass%2C+Zillow%2C+Redfin+%26+The+Fate+of+Agents.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Brett+Jennings/+Videos/2019/April/Real+Estate+Experts-+Compass%2C+Zillow%2C+Redfin+%26+The+Fate+of+Agents.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Our industry is changing, so, with this message, I’d like to highlight a few things agents can expect to see moving forward.</itunes:subtitle>
