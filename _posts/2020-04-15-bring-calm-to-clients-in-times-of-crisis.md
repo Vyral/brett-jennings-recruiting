@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Reassure Clients Amid COVID-19
+title: Bring Calm to Clients in Times of Crisis
 date: 2020-04-15 21:25:00
 tags:
   - Buyer Prospects
@@ -9,7 +9,7 @@ excerpt: >-
   Right now clients are uncertain about many things. I’m sharing how to reassure
   them that this isn’t as big of a market crisis as it may seem.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/How+to+Reassure+Clients+Amid+COVID-19.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Bring+Calm+to+Clients+in+Times+of+Crisis.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
