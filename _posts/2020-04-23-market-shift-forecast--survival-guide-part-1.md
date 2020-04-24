@@ -15,7 +15,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/market-shift-forecast-youtube.jpg
+youtube_alternate_image: /uploads/market-shift-forecast-part-1-youtube.jpg
 youtube_code: JVfmhUMMDN0
 ---
 
