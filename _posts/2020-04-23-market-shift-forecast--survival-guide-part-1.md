@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Market Shift Forecast & Survival Guide
+title: 'Market Shift Forecast & Survival Guide: Part 1'
 date: 2020-04-23 17:56:00
 tags:
   - Buyer Prospects
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-shift-forecast-youtube.jpg
-youtube_code: MzJluImU-rg
+youtube_code: JVfmhUMMDN0
 ---
 
 {% include youtube.html %}
