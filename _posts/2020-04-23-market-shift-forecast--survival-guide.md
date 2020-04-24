@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Market Shift Forecast & Survival Guide
-date: 2020-04-23 17:56:51
+date: 2020-04-23 17:56:00
 tags:
   - Buyer Prospects
   - Lead Generation
@@ -21,7 +21,7 @@ youtube_code: MzJluImU-rg
 
 {% include youtube.html %}
 
-I've been getting questions from other agents on what we are saying and doing to address the shift. Here's a forecast & Action Plan.
+I've been getting questions from other agents on what we are saying and doing to address the shift. Here's part 1 of our forecast & Action Plan.
 
 * Where the Market is headed & How To Prepare
 * How to identify the MOST motivated
@@ -33,4 +33,4 @@ To access slides simply register for our free mastermind at&nbsp;**[www.ThriveTh
 
 Special Thanks to Enrique Medellin, Joe Velasco, Kenny Fast, Jordan Mott, Mike DelPrete & Tom Ferry for inspiring me to put this together.
 
-[Click here to watch this video on Facebook Live.](https://www.facebook.com/BeARealExpert/videos/2984537661568095/){: target="_blank"}
+[Click here to watch the full video on Facebook Live.](https://www.facebook.com/BeARealExpert/videos/2984537661568095/){: target="_blank"}
