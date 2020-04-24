@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Market Shift Forecast & Survival Guide: Part 1'
+title: 'Real Estate Market Forecast & Survival Guide: Part 1'
 date: 2020-04-23 17:56:00
 tags:
   - Buyer Prospects
@@ -10,7 +10,7 @@ excerpt: >-
   Sharing our forecast & Action Plan with other agents to help them thrive
   through this shift.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Market+Shift+Forecast+%26+Survival+Guide.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Real+Estate+Forecast+%26+Survival+Guide%3A+Part+1.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
