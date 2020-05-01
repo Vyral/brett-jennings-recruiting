@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Succeed in Place During Shelter in Place
-date: 2020-04-30 19:02:57
+date: 2020-04-30 19:02:00
 tags:
   - Transaction Management
   - Buyer Prospects
@@ -25,3 +25,5 @@ youtube_code: 12--q-ooaDY
 {% include youtube.html %}
 
 While some agents have furloughed themselves during Shelter in Place, Omid shifted his mindset and followed our lead to use this time to go deep on connecting with his clients, bringing clarity about the market and put 5 deals in contract in just 30 days\! Watch to see how he did it.
+
+For the full details of Omid's 30-day action during shelter in place, see our webinar **[linked here](https://bearealexpert.com/real-estate-market-forecast-survival-guide-part-2.html){: target="_blank"}**.
