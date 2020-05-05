@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Real Estate Market Forecast & Survival Guide: Part 2'
-date: 2020-04-29 21:09:13
+title: '30-Day Shelter in Place Agent Action Plan: Part 2'
+date: 2020-05-05 21:09:00
 tags:
   - Buyer Prospects
   - Lead Conversion
@@ -22,13 +22,11 @@ youtube_code: TT8ki8FFYwc
 
 {% include youtube.html %}
 
-I’ve been getting questions from other agents on what we are saying and doing to address the shift. Here’s part 2 of our forecast & Action Plan.
+I’ve been getting questions from other agents on what we are saying and doing to address the shift. Here’s our 30-day plan during Shelter in Place.
 
-* Where the Market is headed & How To Prepare
-* How to identify the MOST motivated
-* Best Practices for Virtual Presentations & What to Say During this Time
-* 5 Strategies to Thrive through a Shift
-* A 30-day plan during Shelter in Place to gain Market Share Now
+* How to identify the MOST motivated buyers and sellers
+* Best Practices for Virtual Presentations
+* What to Say During this Time
 
 To access slides simply register for our free mastermind at&nbsp;**[www.ThriveThroughTheShift.com](http://www.thrivethroughtheshift.com/?fbclid=IwAR0-mDQtEKSj-ao5enalC0dKQuGJaOpwKtyK8dVW14AfPBpe41QG6XT1obo){: target="_blank"}**
 
