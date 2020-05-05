@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Succeed in Place During Shelter in Place
+title: 5 New Contracts During Shelter in Place?!
 date: 2020-04-30 19:02:00
 tags:
   - Transaction Management
