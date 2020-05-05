@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30-Day Shelter in Place Agent Action Plan: Part 1'
+title: Market Forecast and Agent Survival Guide
 date: 2020-04-23 17:56:00
 tags:
   - Buyer Prospects
