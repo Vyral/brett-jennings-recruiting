@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Real Estate Market Forecast & Survival Guide: Part 1'
+title: '30-Day Shelter in Place Agent Action Plan: Part 1'
 date: 2020-04-23 17:56:00
 tags:
   - Buyer Prospects
