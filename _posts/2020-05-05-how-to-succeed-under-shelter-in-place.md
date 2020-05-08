@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30-Day Shelter in Place Agent Action Plan: Part 2'
+title: How to Succeed Under Shelter in Place
 date: 2020-05-05 21:09:00
 tags:
   - Buyer Prospects
