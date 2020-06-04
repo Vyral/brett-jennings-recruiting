@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overcoming “Let’s Wait & See” to Land $6 M in Deals During SIP
-date: 2020-05-27 21:42:25
+date: 2020-05-27 21:42:00
 tags:
   - Reviews and Referrals
 excerpt: Lionel Madamba has taken his business to the next level during lockdown.
@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/lionel-youtube.jpg
+youtube_alternate_image: /uploads/lionel-youtube-1.jpg
 youtube_code: 82VxG1O_XuE
 ---
 
