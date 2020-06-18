@@ -34,7 +34,7 @@ Today, I’ll share some of my expertise and provide some tips you can use to he
 
 11:56 - How to Use Recent Pendings to Guide Your Client to Stretch for the Right Price
 
-21:00 - How Nneka Uses Past Sales Data to Overcome "We want to wait for the market to dip"
+21:00 - How Nneka Uses Past Sales Data to Overcome "We Want to Wait for the Market to Dip"
 
 21:50 - How Ryan Has His Lender Calculate Payments "You Don't Live in the Price, You Live in the Monthly Payment"
 
