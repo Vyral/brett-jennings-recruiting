@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Success Secrets To Get Your Buyers Offer Accepted
+title: Success Secrets to Get Your Buyers Offer Accepted
 date: 2020-06-15 17:59:00
 tags:
   - Lead Conversion
