@@ -30,11 +30,11 @@ Today, I’ll share some of my expertise and provide some tips you can use to he
 
 5:30 - The Key Script or Talk Track to Help Your Buyers Understand What it takes to Win
 
-9:30 - The Simple Fact and GIft of the Silicon Valley Real Estate Market&nbsp;
+9:30 - The Simple Fact and Gift of the Silicon Valley Real Estate Market&nbsp;
 
 11:56 - How to Use Recent Pendings to Guide Your Client to Stretch for the Right Price
 
-21:00 - How&nbsp; Nneka Uses Past Sales Data to Overcome "We want to wait for the market to dip"
+21:00 - How Nneka Uses Past Sales Data to Overcome "We want to wait for the market to dip"
 
 21:50 - How Ryan has his Lender Calculate Payments "You dont live in the Price, You Live in the Monthly Payment"
 
