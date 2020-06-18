@@ -38,9 +38,9 @@ Today, I’ll share some of my expertise and provide some tips you can use to he
 
 21:50 - How Ryan has his Lender Calculate Payments "You dont live in the Price, You Live in the Monthly Payment"
 
-28:30 - How Lin-Lin&nbsp; Researches Listing Agents Listing History to Set Expectation on Final Sale Price&nbsp;
+28:30 - How Lin-Lin Researches Listing Agents Listing History to Set Expectation on Final Sale Price&nbsp;
 
-31:00 - How Lin Lin uses one question to find the buyers break point for the home they want to buy
+31:00 - How Lin Lin Uses One Question to Find the Buyers Break Point for the Home They Want to Buy
 
 43:35 - The 9 Point Checklist for Writing the Perfect Winning Offer
 
