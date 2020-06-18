@@ -26,7 +26,7 @@ Today, I’ll share some of my expertise and provide some tips you can use to he
 
 **We unpack it all here in this Mastermind session with our top agents. Topics are time coded and include:**
 
-3:00 - The \# 1 Thing to Get Right with Your Buyers BEFORE you Write an Offer&nbsp;
+3:00 - The \#1 Thing to Get Right with Your Buyers BEFORE you Write an Offer&nbsp;
 
 5:30 - The Key Script or Talk Track to Help Your Buyers Understand What it takes to Win
 
@@ -36,7 +36,7 @@ Today, I’ll share some of my expertise and provide some tips you can use to he
 
 21:00 - How Nneka Uses Past Sales Data to Overcome "We want to wait for the market to dip"
 
-21:50 - How Ryan has his Lender Calculate Payments "You dont live in the Price, You Live in the Monthly Payment"
+21:50 - How Ryan Has His Lender Calculate Payments "You Don't Live in the Price, You Live in the Monthly Payment"
 
 28:30 - How Lin-Lin Researches Listing Agents Listing History to Set Expectation on Final Sale Price&nbsp;
 
