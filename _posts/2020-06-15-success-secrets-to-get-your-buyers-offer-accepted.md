@@ -20,7 +20,7 @@ youtube_code: nZjk3vm_8jw
 
 For the last 12 years, I’ve traveled the country to meet, mentor, and mastermind with some of the best and brightest minds both inside and outside of real estate. I brought those ideas back to our team of experts and sold hundreds of homes each year across Silicon Valley.
 
-The market is heating up and we are facing Multiple offers once again. Using some ninja scripts and tactics, our Partners&nbsp; were able to put 35 BUYERS IN CONTRACT in the last 60 days even when buyers are saying "We think the market may go down. We want to wait and see what happens."
+The market is heating up and we are facing Multiple offers once again. Using some ninja scripts and tactics, our Partners were able to put 35 BUYERS IN CONTRACT in the last 60 days, even when buyers are saying "We think the market may go down. We want to wait and see what happens."
 
 Today, I’ll share some of my expertise and provide some tips you can use to help your buyers write realistic, competitive offers that are positioned for home buying success.
 
