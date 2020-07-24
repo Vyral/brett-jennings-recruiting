@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Ryan LaRocca Tripled His Business
+title: How Ryan is Tripling His Business
 date: 2020-07-23 21:26:00
 tags:
   - Reviews and Referrals
