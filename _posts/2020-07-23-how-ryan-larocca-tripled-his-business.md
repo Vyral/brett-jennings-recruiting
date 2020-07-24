@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Ryan LaRocca Tripled His Business
-date: 2020-07-23 21:26:36
+date: 2020-07-23 21:26:00
 tags:
   - Reviews and Referrals
 excerpt: Hear how Ryan LaRocca has used our platform to triple his business in 2020.
@@ -25,7 +25,7 @@ Today I’m delighted to be joined by an agent on our team who is absolutely on 
 
 3:00- Ryan describes the changes in his business since we helped him put a plan together
 
-4:50- Why setting realistic goals was key to Ryan’s team’s success
+4:50- Why setting realistic goals was key to the success of Ryan’s team
 
 7:08- The main benefits Ryan has seen from joining Real Estate Experts
 
