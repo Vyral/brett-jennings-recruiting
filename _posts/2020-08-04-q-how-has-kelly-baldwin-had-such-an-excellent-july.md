@@ -35,4 +35,4 @@ I’m back again to talk to another agent on the Real Estate Experts team that i
 
 **10:30-** Wrapping things up
 
-If you have any questions for me about anything we discussed in the video above or anything else related to real estate, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.
+If you have questions for me about what we discussed in the video above or anything else related to real estate, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.
