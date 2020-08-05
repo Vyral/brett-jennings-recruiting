@@ -1,6 +1,8 @@
 ---
 layout: post
-title: 'Q: How Has Kelly Baldwin Had Such an Excellent July?'
+title: >-
+  Hear How Kelly Will Earn $1 Million GCI in Her 2nd Year With Real Estate
+  Experts
 date: 2020-08-04 16:46:00
 tags:
   - Reviews and Referrals
