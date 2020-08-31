@@ -18,9 +18,9 @@ youtube_code: xjw6NE0t4dU
 
 {% include youtube.html %}
 
-<center>**[See Nneka’s full Top Agent Panel Interview here\!](https://vimeo.com/447022694){: target="_blank" rel="noopener"}**<center>
-
 Agent on Fire: &nbsp;$11M in Deals in 1 Week\!
+
+<center>**[See Nneka’s full Top Agent Panel Interview here\!](https://vimeo.com/447022694){: target="_blank" rel="noopener"}**<center>
 
 We’re about six months into the pandemic, and while the economy is failing, Nneka Jenkins is *on fire*\! I remember when she first started working with us about 2 ½ years ago and she had to make a scary decision—leave the full-time job she’s depended on and leap into real estate, which until then had only been a part-time job.&nbsp;
 
