@@ -18,7 +18,7 @@ youtube_code: xjw6NE0t4dU
 
 {% include youtube.html %}
 
-**[See Nneka’s full Top Agent Panel Interview here\!](https://vimeo.com/447022694){: target="_blank" rel="noopener"}**
+<center>**[See Nneka’s full Top Agent Panel Interview here\!](https://vimeo.com/447022694){: target="_blank" rel="noopener"}**<center>
 
 Agent on Fire: &nbsp;$11M in Deals in 1 Week\!
 
