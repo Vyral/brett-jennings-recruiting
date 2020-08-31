@@ -18,7 +18,7 @@ youtube_code: xjw6NE0t4dU
 
 {% include youtube.html %}
 
-<center>See Nneka’s full Top Agent Panel Interview here!</center>
+<center><strong><a target="_blank" rel="noopener" href="https://vimeo.com/447022694">See Nneka&rsquo;s full Top Agent Panel Interview here!</a></strong></center>
 
 <br>We’re about six months into the pandemic, and while the economy is failing, Nneka Jenkins is *on fire*\! I remember when she first started working with us about 2 ½ years ago and she had to make a scary decision—leave the full-time job she’s depended on and leap into real estate, which until then had only been a part-time job.&nbsp;
 
