@@ -18,10 +18,6 @@ youtube_code: xjw6NE0t4dU
 
 {% include youtube.html %}
 
-Agent on Fire: &nbsp;$11M in Deals in 1 Week\!
-
-<center>**[See Nneka’s full Top Agent Panel Interview here\!](https://vimeo.com/447022694){: target="_blank" rel="noopener"}**<center>
-
 We’re about six months into the pandemic, and while the economy is failing, Nneka Jenkins is *on fire*\! I remember when she first started working with us about 2 ½ years ago and she had to make a scary decision—leave the full-time job she’s depended on and leap into real estate, which until then had only been a part-time job.&nbsp;
 
 However, based on her personality type, professional track record, and work ethic, I knew she’d be successful. Prior to joining us, she’d only managed 10 deals, but she rocketed up to 36 in her first year here. In her second year, she hit 50. Now, Nneka is pushing herself to reach 100\! That’s exactly the kind of big thinking that separates her from other agents; **whereas many newer agents would see 100 transactions as impossible, Nneka happily embraces the challenge.&nbsp;**
