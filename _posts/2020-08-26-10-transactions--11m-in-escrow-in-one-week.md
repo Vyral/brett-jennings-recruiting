@@ -18,6 +18,10 @@ youtube_code: xjw6NE0t4dU
 
 {% include youtube.html %}
 
+**[See Nneka’s full Top Agent Panel Interview here\!](https://vimeo.com/447022694){: target="_blank" rel="noopener"}**
+
+Agent on Fire: &nbsp;$11M in Deals in 1 Week\!
+
 We’re about six months into the pandemic, and while the economy is failing, Nneka Jenkins is *on fire*\! I remember when she first started working with us about 2 ½ years ago and she had to make a scary decision—leave the full-time job she’s depended on and leap into real estate, which until then had only been a part-time job.&nbsp;
 
 However, based on her personality type, professional track record, and work ethic, I knew she’d be successful. Prior to joining us, she’d only managed 10 deals, but she rocketed up to 36 in her first year here. In her second year, she hit 50. Now, Nneka is pushing herself to reach 100\! That’s exactly the kind of big thinking that separates her from other agents; **whereas many newer agents would see 100 transactions as impossible, Nneka happily embraces the challenge.&nbsp;**
@@ -32,7 +36,7 @@ As Nneka put it, buyers in these uncertain times hunger for any certainty they c
 
 She’s been taking advantage of those wealth-building opportunities herself, as this year she achieved her personal goal of buying an investment property. She’s now ready to continue her new goal: buy one new investment property every year. Whether it’s buy-and-hold or the flip approach, Nneka said she’s thrilled by the amazing options that investment properties offer.&nbsp;
 
-If you want to hear more from this breakout agent, she’ll be speaking at our upcoming side forum\! **[Click here to register](http://google.com){: target="_blank" rel="noopener"}** so you can check out one of Nneka’s sessions.&nbsp;
+If you want to hear more from this breakout agent, **[click here to watch her speak](https://vimeo.com/447022694){: target="_blank" rel="noopener"}**&nbsp;at our recent side forum\!
 
 When asked what advice she’d give for navigating this unique market, Nneka stressed the importance of acting with confidence. In her own words: “Know how your market data can benefit your buyers and sellers alike in the same environment. People come to us for that sense of expertise in the market.” It’s all about giving your clients the courage to jump in and make a decision they’ll be thankful for now and well into the future.&nbsp;
 
