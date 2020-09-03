@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winning in a Multiple-Offer Situation
-date: 2020-08-04 17:26:00
+date: 2020-08-03 17:26:00
 tags:
   - Transaction Management
 excerpt: >-
