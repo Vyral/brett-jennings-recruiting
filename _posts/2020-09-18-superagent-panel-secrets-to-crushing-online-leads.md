@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperAgent Panel: Secrets to Crushing Online Leads'
-date: 2020-09-18 22:07:44
+date: 2020-09-18 22:07:00
 tags:
   - Buyer Prospects
   - Lead Generation
@@ -17,7 +17,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2020-09-18.jpg
+youtube_alternate_image: /uploads/facebook-event---online-lead-webinar-1.png
 youtube_code: SS_-uc6qjQ0
 ---
 
