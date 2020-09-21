@@ -11,7 +11,7 @@ tags:
   - Reviews and Referrals
 excerpt: >-
   Hear from 3 Top Producers that have Earned over $1M in GCI this year from
-  Online how they are crushing it with online leads.
+  Online Leads.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
