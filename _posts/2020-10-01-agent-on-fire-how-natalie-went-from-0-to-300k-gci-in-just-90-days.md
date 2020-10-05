@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Agent On Fire: How to Go From 0-4 Deals in 60 Days'
-date: 2020-10-01 17:53:36
+title: 'Agent on Fire: How Natalie went from $0 to $300k GCI in just 90 Days'
+date: 2020-10-01 17:53:00
 tags:
   - Reviews and Referrals
-excerpt: Here’s how agent Natalie Brumley went from zero to four deals in just 60 days.
+excerpt: Here’s how agent Natalie Brumley went from 0 to 9 deals in just 90 days?
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Agent+On+Fire-+How+to+Go+From+0-4+Deals+in+60+Days.mp4
 pullquote:
@@ -17,7 +17,7 @@ youtube_code: Px0tgKnV1kg
 
 {% include youtube.html %}
 
-Today I have the privilege of being joined by Natalie Brumley of the LaRocca Group here at Real Estate Experts. The economy may still be faltering, but this agent is absolutely on fire. She joined us during one of the most challenging times for any agent to switch brokerages, but she managed to close two homes last month and has two pending at the moment. How did she go from zero to four deals in 60 days?&nbsp;
+Today I have the privilege of being joined by Natalie Brumley of the LaRocca Group here at Real Estate Experts. The economy may still be faltering, but this agent is absolutely on fire. She joined us during one of the most challenging times for any agent to switch brokerages, but she managed to close 4 transactions in her first 60 days and has 5 pending at the moment. How did she go from 0 to 9 deals in just 90 days?
 
 **Watch the video above in its entirety to find out. For your convenience, I’ve provided timestamps so you can skip ahead to various sections:&nbsp;**
 
