@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Do You Want to Grow a Successful Team?'
-date: 2020-10-29 21:12:27
+date: 2020-10-29 21:12:00
 tags:
   - Reviews and Referrals
   - Lead Generation
@@ -9,7 +9,8 @@ tags:
   - Buyer Prospects
   - Transaction Management
 excerpt: This is our Top Agent Webinar about how to successfully grow a team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Q-+Do+You+Want+to+Grow+a+Successful+Team_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
