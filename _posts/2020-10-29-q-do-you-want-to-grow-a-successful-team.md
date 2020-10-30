@@ -15,7 +15,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/top-agent-panel-yt.jpg
+youtube_alternate_image: /uploads/yt.png
 youtube_code: d1gmPLiPxCo
 ---
 
