@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Agent on Fire: Our Newest Agent Just Did 6 Deals in One Week'
-date: 2020-11-30 19:51:44
+title: 'Agent on Fire: Our Newest Partner Just Did 6 Deals in One Week'
+date: 2020-11-30 19:51:00
 tags:
 excerpt: 'By absorbing what our team has to offer, Ryan has increased his business.'
 enclosure:
