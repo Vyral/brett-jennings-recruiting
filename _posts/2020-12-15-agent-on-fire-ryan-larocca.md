@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Agent on Fire: Ryan LaRocca'
-date: 2020-12-15 21:21:05
+date: 2020-12-15 21:21:00
 tags:
   - Reviews and Referrals
 excerpt: This is how Ryan LaRocca found success by building a real estate team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Agent+on+Fire_+Ryan+LaRocca.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
