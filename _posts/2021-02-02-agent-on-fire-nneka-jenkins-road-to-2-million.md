@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Agent on Fire: Nneka Jenkins’ Road to $2 Million'
-date: 2021-02-02 21:32:51
+date: 2021-02-02 21:32:00
 tags:
   - Reviews and Referrals
   - Lead Conversion
 excerpt: Nneka Jenkins went from part-time agent to full-time superstar. Here’s how.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire_+Nneka+Jenkins%E2%80%99+Road+to+%242+Million.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
