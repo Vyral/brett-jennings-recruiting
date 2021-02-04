@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/nneka-jenkins-yt-1.jpg
+youtube_alternate_image: /uploads/nneka-jenkins-yt-2.jpg
 youtube_code: 0ccxO1o1pX4
 ---
 
