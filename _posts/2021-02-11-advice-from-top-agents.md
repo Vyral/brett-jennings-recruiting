@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Advice From Top Agents
-date: 2021-02-11 22:16:36
+date: 2021-02-11 22:16:00
 tags:
   - Reviews and Referrals
   - Transaction Management
-excerpt: 'In our recent Top Agent Panel, top-producing agents shared their.'
+excerpt: 'In our recent Top Agent Panel, top-producing agents shared their experiences.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
