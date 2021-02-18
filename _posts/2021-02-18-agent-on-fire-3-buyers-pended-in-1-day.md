@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Agent on Fire: 3 Buyers Pended in 1 Day!'
-date: 2021-02-18 21:00:13
+date: 2021-02-18 21:00:00
 tags:
   - Lead Conversion
   - Transaction Management
 excerpt: Here are the keys to remember to getting buyers into contract in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire_+3+Buyers+Pended+in+1+Day!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
