@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Agent on Fire: From Coach to Quarterback'
-date: 2021-03-10 21:40:02
+date: 2021-03-10 21:40:00
 tags:
   - Reviews and Referrals
 excerpt: Two coaches trade their clipboards for cleats and hit the ground running.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire_+From+Coach+to+Quarterback.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
