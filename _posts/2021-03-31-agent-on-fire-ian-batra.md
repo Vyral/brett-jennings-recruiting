@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Agent on Fire: Ian Batra'
-date: 2021-03-31 17:14:52
+date: 2021-03-31 17:14:00
 tags:
   - Transaction Management
 excerpt: Here’s how Laura and Ian Batra have built such a successful team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire_+Ian+Batra.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
