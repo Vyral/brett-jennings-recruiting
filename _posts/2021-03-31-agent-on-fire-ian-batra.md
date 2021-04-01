@@ -16,11 +16,11 @@ youtube_code: JzheszVyh9k
 ---
 {% include youtube.html %}
 
-In today’s episode of “Agent on Fire,” I’m excited to catch up with Ian Batra, our amazing team leader who has led our team through the challenges of last year to a place of massive success in 2021. Obviously, the pandemic shook things up for all of us in 2020, but nevertheless,&nbsp; Ian, his wife Laura, and their team rounded out the year with more than $20 million in sales. We’re only a few months into the new year, but they’ve already doubled what they did all of last year—as of the night before this video was recorded, they had $41 million in sales volume\! Today we’ll hear what tools, procedures, and systems they’ve used to amass such great success even in the face of adversity.
+In today’s episode of “Agent on Fire,” I’m excited to catch up with Ian Batra, an amazing team leader who has led his team through the challenges of last year to a place of massive success in 2021. Obviously, the pandemic shook things up for all of us in 2020, but nevertheless,&nbsp; Ian, his wife Laura, and their team rounded out the year with more than $20 million in sales. We’re only a few months into the new year, but they’ve already doubled what they did all of last year—as of the night before this video was recorded, they had $41 million in sales volume\! Today we’ll hear what tools, procedures, and systems they’ve used to amass such great success even in the face of adversity.
 
 **Feel free to follow along in the video above or else use the timestamps below to navigate the discussion at your leisure**\:
 
-2:33—Back story: What prompted them to start a team?
+2:33—Backstory: What prompted them to start a team?
 
 5:25—People, systems, and leads: where they were, and where they are now
 
