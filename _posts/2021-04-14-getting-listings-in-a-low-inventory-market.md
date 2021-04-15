@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Keeping It Real: Direct Mail Marketing Tactics'
-date: 2021-04-14 18:20:56
+title: Getting Listings in a Low Inventory Market
+date: 2021-04-14 18:20:00
 tags:
   - Lead Generation
   - Buyer Prospects
