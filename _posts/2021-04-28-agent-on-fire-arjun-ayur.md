@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'Agent on Fire: Arjun Ayur'
+date: 2021-04-28 21:06:18
+tags:
+  - Transaction Management
+excerpt: How did this agent manage to quadruple his business in a year?
+enclosure:
+pullquote:
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: false
+youtube_alternate_image: /uploads/arjun-yt.jpg
+youtube_code: vmm6MOvB8tI
+---
+{% include youtube.html %}
+
+In this episode of “Agent on Fire,” I sat down to interview none other than Arjun Ayur to discuss his journey from being on a team at the start of his career to eventually building his own team. In just a year, Arjun is now doing as much business in a single quarter as he used to do in a whole year, so today we’ll learn about what changes he had to make to form his team and make such a monumental leap in business. To hear Arjun’s story and tips, watch our latest video.
