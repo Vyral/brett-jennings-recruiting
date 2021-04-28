@@ -5,7 +5,8 @@ date: 2021-04-28 21:06:00
 tags:
   - Transaction Management
 excerpt: How did this agent manage to quadruple his business in a year?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire_+Arjun+Ayur.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
