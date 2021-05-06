@@ -6,7 +6,7 @@ tags:
   - Transaction Management
 excerpt: How did this agent manage to quadruple his business in a year?
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire_+Arjun+Ayur.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire_+Arjun+Ayyar.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
