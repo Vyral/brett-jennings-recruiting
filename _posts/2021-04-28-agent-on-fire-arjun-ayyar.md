@@ -16,6 +16,6 @@ youtube_code: vmm6MOvB8tI
 ---
 {% include youtube.html %}
 
-In this episode of “Agent on Fire,” I sat down to interview none other than Arjun Ayur to discuss his journey from being on a team at the start of his career to eventually building his own team. In just a year, Arjun is now doing as much business in a single quarter as he used to do in a whole year, so today we’ll learn about what changes he had to make to form his team and make such a monumental leap in business.
+In this episode of “Agent on Fire,” I sat down to interview none other than Arjun Ayyar to discuss his journey from being on a team at the start of his career to eventually building his own team. In just a year, Arjun is now doing as much business in a single quarter as he used to do in a whole year, so today we’ll learn about what changes he had to make to form his team and make such a monumental leap in business.
 
 Thanks for joining us for today’s “Agent on Fire” interview. If you have any questions about today’s discussion, don’t hesitate to reach out to your Real Estate Experts. We’d love to hear from you.
