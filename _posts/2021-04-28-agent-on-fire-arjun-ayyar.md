@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agent on Fire: Arjun Ayur'
+title: 'Agent on Fire: Arjun Ayyar'
 date: 2021-04-28 21:06:00
 tags:
   - Transaction Management
