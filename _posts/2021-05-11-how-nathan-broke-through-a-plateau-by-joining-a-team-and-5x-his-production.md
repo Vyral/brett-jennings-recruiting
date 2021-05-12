@@ -17,7 +17,7 @@ youtube_code: JR5Mp49wsFY
 ---
 {% include youtube.html %}
 
-For this edition of “Agent on Fire,” I’m catching up with Nathan Galloway. Nathan has been in the business since 2014 and has had an amazing start to 2021. In just two months, he managed to close eight deals worth roughly $8 million in escrow. This is a huge bump compared to his earlier career, so today we’ll tell the story of how he was able to create these amazing results.&nbsp;
+For this edition of “Agent on Fire,” I’m catching up with Nathan Galloway. Nathan has been in the business since 2014 and has had an amazing start to 2021. In just two months, he managed to close eight deals worth roughly $8 million in escrow. This is a huge bump compared to his early career, so today we’ll tell the story of how he was able to create these amazing results.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety, or use these timestamps to browse specific points at your leisure:&nbsp;**
 
