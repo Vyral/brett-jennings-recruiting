@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/agent-on-fire-nathan-galloway-yt.jpg
+youtube_alternate_image: /uploads/agent-on-fire-nathan-galloway-yt.jpeg
 youtube_code: JR5Mp49wsFY
 ---
 {% include youtube.html %}
