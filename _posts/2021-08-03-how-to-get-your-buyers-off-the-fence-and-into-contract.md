@@ -38,4 +38,6 @@ Today we’re going through the presentation that we use to get clients off the 
 
 16:35- Final message/wrapping things up
 
+**Want the Slides We Share in this Training?&nbsp;[Download them here.](https://www.dropbox.com/s/wkq9n1iyjxyavry/Getting%20Buyers%20off%20the%20Fence%20Slodes.pdf?dl=0){: target="_blank"}**
+
 If you have any questions about anything we discussed in today’s video, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
