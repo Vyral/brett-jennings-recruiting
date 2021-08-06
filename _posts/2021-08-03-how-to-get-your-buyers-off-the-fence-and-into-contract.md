@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/buyers-off-the-fence-yt.jpg
-youtube_code: 4fFacCeCs4Y
+youtube_code: QnN_b9QsmTQ
 ---
 {% include youtube.html %}
 
