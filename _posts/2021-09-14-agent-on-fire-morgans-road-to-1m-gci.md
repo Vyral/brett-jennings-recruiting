@@ -7,7 +7,8 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: Today I’m eager to catch up with Morgan McGuire, one of our newer partners.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire+Morgan's+Road+to+%241M+GCI.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
