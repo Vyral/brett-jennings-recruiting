@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How a 20-Year Veteran Tripled His Business
+title: 'Agent on Fire: Morgan''s Road to $1M GCI'
 date: 2021-09-14 20:39:15
 tags:
   - Transaction Management
