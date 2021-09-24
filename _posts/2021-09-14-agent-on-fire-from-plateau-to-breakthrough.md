@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agent on Fire: Morgan''s Road to $1M GCI'
+title: 'Agent on Fire: From Plateau to Breakthrough'
 date: 2021-09-14 20:39:15
 tags:
   - Transaction Management
