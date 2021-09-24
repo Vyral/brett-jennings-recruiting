@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /agent-on-fire-morgan-yt.jpg
+youtube_alternate_image: /agent-on-fire-morgan-yt-1.jpg
 youtube_code: qC1QznPghEU
 ---
 {% include youtube.html %}
