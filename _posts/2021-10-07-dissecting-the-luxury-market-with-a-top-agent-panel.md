@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dissecting the Luxury Market With a Top Agent Panel
+title: Top Agent Panel - Breaking Into Luxury
 date: 2021-10-07 14:48:42
 tags:
   - Lead Generation
