@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agent on Fire: From Coach to Quarterback'
+title: 'Expert on Fire: From Coach to Quarterback'
 date: 2021-03-10 21:40:00
 tags:
   - Reviews and Referrals
@@ -38,4 +38,4 @@ Being a coach is fantastic, but sometimes, the glory of the game pulls you back 
 
 18:24 — Wrapping up today’s conversation
 
-Hopefully, you found Chris and Julia’s respective stories inspiring. What would *you* do differently if you could do something all over again? What’s holding you back from cultivating that mindset with your current business? As always, reach out by phone or email if you have any questions or comments. We’d love to connect with you and share a bit more about the systems and tools that allow Real Estate Experts to empower ordinary agents to become ‘agents on fire.’
+Hopefully, you found Chris and Julia’s respective stories inspiring. What would *you* do differently if you could do something all over again? What’s holding you back from cultivating that mindset with your current business? As always, reach out by phone or email if you have any questions or comments. We’d love to connect with you and share a bit more about the systems and tools that allow Real Estate Experts to empower ordinary agents to become ‘experts on fire.’
