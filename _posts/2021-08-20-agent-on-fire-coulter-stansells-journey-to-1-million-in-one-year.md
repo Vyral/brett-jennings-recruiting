@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agent on Fire: Coulter Stansell’s Journey to $1 Million in One Year'
+title: 'Expert on Fire: Coulter Stansell’s Journey to $1 Million in One Year'
 date: 2021-08-20 18:05:54
 tags:
   - Reviews and Referrals
