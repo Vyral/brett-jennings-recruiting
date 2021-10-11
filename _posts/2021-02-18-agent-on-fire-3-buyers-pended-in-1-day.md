@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agent on Fire: 3 Buyers Pended in 1 Day!'
+title: 'Expert on Fire: 3 Buyers Pended in 1 Day!'
 date: 2021-02-18 21:00:00
 tags:
   - Lead Conversion
@@ -15,10 +15,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/olympia-pistalu-yt.jpg
 youtube_code: bGHi8GctvXo
 ---
-
 {% include youtube.html %}
 
-For the latest episode of my “Agent on Fire” series, I’m joined by Olympia Pistalu to talk about one of the challenges all of us are facing in this market. If you’ve been representing buyers, you know it’s difficult to get them into contract. Olympia is crushing it with buyers and got three into contract in a single day\! Hear her insights and talk tracks on how she's getting buyers to be "in it to win it”\!&nbsp;
+For the latest episode of my “Expert on Fire” series, I’m joined by Olympia Pistalu to talk about one of the challenges all of us are facing in this market. If you’ve been representing buyers, you know it’s difficult to get them into contract. Olympia is crushing it with buyers and got three into contract in a single day\! Hear her insights and talk tracks on how she's getting buyers to be "in it to win it”\!&nbsp;
 
 **Feel free to watch the video above in its entirety to learn the keys to getting buyers into contract or use these timestamps to skip ahead to various sections at your leisure:&nbsp;**
 
