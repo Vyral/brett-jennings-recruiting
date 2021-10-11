@@ -5,7 +5,7 @@ date: 2021-05-11 20:24:00
 tags:
   - Transaction Management
   - Lead Conversion
-excerpt: This episode of “Agent on Fire” features excellent agent Nathan Galloway.
+excerpt: This episode of “Expert on Fire” features excellent agent Nathan Galloway.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/How+Nathan+Broke+Through+a+Plateau+By+Joining+a+Team+and+5X+His+Production.mp4
 pullquote:
