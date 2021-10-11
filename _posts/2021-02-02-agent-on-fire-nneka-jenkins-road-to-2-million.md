@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agent on Fire: Nneka Jenkins’ Road to $2 Million'
+title: 'Expert on Fire: Nneka Jenkins’ Road to $2 Million'
 date: 2021-02-02 21:32:00
 tags:
   - Reviews and Referrals
@@ -15,10 +15,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/nneka-jenkins-yt-2.jpg
 youtube_code: 49tygnSE9OI
 ---
-
 {% include youtube.html %}
 
-Today I have the privilege of catching up with Nneka Jenkins, another one of our “Agents on Fire.” Nneka is a shining example of what it means to embrace a growth mindset in this business, adopt the right systems, and flourish because of it.
+Today I have the privilege of catching up with Nneka Jenkins, another one of our “Experts on Fire.” Nneka is a shining example of what it means to embrace a growth mindset in this business, adopt the right systems, and flourish because of it.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:**
 
