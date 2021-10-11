@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Agent on Fire: Our Newest Partner Just Did 6 Deals in One Week'
+title: 'Expert on Fire: Our Newest Partner Just Did 6 Deals in One Week'
 date: 2020-11-30 19:51:00
 tags:
-excerpt: 'By absorbing what our team has to offer, Ryan has increased his business.'
+excerpt: By absorbing what our team has to offer, Ryan has increased his business.
 enclosure:
 pullquote: >-
   In the week leading up to the recording of this video, he closed six deals, so
@@ -14,7 +14,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: VKjcSRGjs0E
 ---
-
 {% include youtube.html %}
 
 Although it looks like we’re headed for another COVID lockdown where many businesses and real estate agents will slow down, my guest in today’s video is on fire: Ryan Nickell. **Ryan’s been with The Real Experts team for a little over a month, and in that time, he’s embraced everything we have to offer.** He leaned into our onboarding process, mastered the CRM, took advantage of Zillow Flex, and leveraged our marketing team to optimize his sphere of influence. In the week leading up to the recording of this video, he closed six deals, so it’s high time we spotlighted his success. Last year at his previous brokerage, he did 18 deals total, and his goal for 2021 is to double his business and help 36 families.&nbsp;
