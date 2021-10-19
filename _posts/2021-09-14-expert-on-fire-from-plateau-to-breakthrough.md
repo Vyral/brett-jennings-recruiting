@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Expert on Fire: From Plateau to Breakthrough '
-date: 2021-10-19 16:44:58
+date: 2021-09-14 16:44:00
 tags:
     - Transaction Management
     - Lead Generation
