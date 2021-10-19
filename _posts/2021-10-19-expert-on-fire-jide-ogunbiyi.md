@@ -5,7 +5,8 @@ date: 2021-10-19 19:21:21
 tags:
     - Transaction Management
 excerpt: Hear about Jide Ogunbiyi’s success story in this episode of Expert on Fire.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Expert+on+Fire_+Jide+Ogunbiyi.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
