@@ -6,7 +6,7 @@ tags:
   - Transaction Management
 excerpt: Here’s how Laura and Ian Batra have built such a successful team.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire_+Ian+Batra.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Expert+on+Fire%3A+Ian+Batra.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
