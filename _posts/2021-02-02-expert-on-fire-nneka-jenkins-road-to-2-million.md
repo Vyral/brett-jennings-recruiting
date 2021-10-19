@@ -7,7 +7,7 @@ tags:
   - Lead Conversion
 excerpt: Nneka Jenkins went from part-time agent to full-time superstar. Here’s how.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire_+Nneka+Jenkins%E2%80%99+Road+to+%242+Million.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Expert+on+Fire%3A+Nneka+Jenkins%E2%80%99+Road+to+%242+Million.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
