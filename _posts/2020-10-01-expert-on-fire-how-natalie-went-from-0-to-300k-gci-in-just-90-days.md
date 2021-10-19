@@ -6,7 +6,7 @@ tags:
   - Reviews and Referrals
 excerpt: Here’s how agent Natalie Brumley went from 0 to 9 deals in just 90 days?
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Agent+On+Fire-+How+to+Go+From+0-4+Deals+in+60+Days.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2020/Expert+on+Fire%3A+How+Natalie+went+from+%240+to+%24300k+GCI+in+just+90+Days
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
