@@ -4,7 +4,8 @@ title: 'Expert on Fire: Our Newest Partner Just Did 6 Deals in One Week'
 date: 2020-11-30 19:51:00
 tags:
 excerpt: By absorbing what our team has to offer, Ryan has increased his business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Expert+on+Fire_+Our+Newest+Agent+Just+Did+6+Deals+in+One+Week.mp4
 pullquote: >-
   In the week leading up to the recording of this video, he closed six deals, so
   it’s high time we spotlighted his success.
