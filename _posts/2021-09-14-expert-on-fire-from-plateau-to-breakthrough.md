@@ -8,7 +8,7 @@ tags:
   - Lead Generation
 excerpt: Today I’m eager to catch up with Morgan McGuire, one of our newer partners.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+on+Fire+Morgan's+Road+to+%241M+GCI.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Expert+on+Fire%3A+From+Plateau+to+Breakthrough.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
