@@ -1,8 +1,8 @@
 ---
 layout: post
 title: >-
-  Hear How Kelly Will Earn $1 Million GCI in Her 2nd Year With Real Estate
-  Experts
+  Expert on Fire: Hear How Kelly Will Earn $1 Million GCI in Her 2nd Year With
+  Real Estate Experts
 date: 2020-08-04 16:46:00
 tags:
   - Reviews and Referrals
@@ -16,7 +16,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/agent-on-fire-kelly-youtube-1.jpg
 youtube_code: bG2nyqeEXps
 ---
-
 {% include youtube.html %}
 
 I’m back again to talk to another agent on the Real Estate Experts team that is absolutely on fire. This time, I’m catching up with Kelly Baldwin. Although we work together a lot, we don’t get to check in that often, so I was excited to chat with her about the amazing success she’s been having.
