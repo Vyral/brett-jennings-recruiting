@@ -1,7 +1,7 @@
 audit_header: false
-title: Silicon Valley's Best Real Estate Training
+title: Bay Area's Best Real Estate Training
 description: >-
-  Brett Jennings, a top Real Estate Agent in Silicon Valley, shares his own
+  Brett Jennings, a top Real Estate Agent in the Bay Area, shares his own
   internal real estate agent training for free. His Real Estate Training, Tips
   and Advice will help you sell more homes in less time.
 show_custom_links: true
@@ -46,7 +46,7 @@ client:
     record-breaking prices in almost every neighborhood he sells in. His
     best-selling book, The New Rise in Real Estate, serves as a further resource
     for clients wanting to make the most of the current market.
-  market: Silicon Valley
+  market: Bay Area
   brand: 'Real Estate Experts | DRE #01761522'
   brokerage:
   address: '910 E Hamilton Ave, Suite 130 , Cambell Ca 95008'
@@ -81,7 +81,7 @@ socials:
   yelp_url:
   podcast_url:
 podcast:
-  title: Silicon Valley Real Estate Podcast with Brett Jennings
+  title: Bay Area Real Estate Podcast with Brett Jennings
   categories:
     - Education
   image: /img/podcast.jpg
