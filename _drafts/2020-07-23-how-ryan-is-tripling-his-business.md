@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Ryan is Tripling His Business
+title: 'Expert on Fire: How Ryan is Tripling His Business'
 date: 2020-07-23 21:26:00
 tags:
   - Reviews and Referrals
@@ -14,7 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/agent-on-fire-youtube-1.jpg
 youtube_code: oBPQ2OoLWxI
 ---
-
 {% include youtube.html %}
 
 Today I’m delighted to be joined by an agent on our team who is absolutely on fire right now. I sat down with Ryan LaRocca to talk about how he is leveraging the Real Estate Experts platform to triple his business so far in 2020. We talked about his journey, what he’s been doing differently this year, and how he’s made it all work amidst a global pandemic.&nbsp;
