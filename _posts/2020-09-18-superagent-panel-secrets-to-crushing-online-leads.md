@@ -20,7 +20,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/facebook-event---online-lead-webinar-1.png
 youtube_code: SS_-uc6qjQ0
 ---
-
 {% include youtube.html %}
 
 Here's what is covered in this panel:
