@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amanda''s Road to $1Million+: From 13 sales to 50 sales in 1 Yr'
+title: 'Expert on Fire: Amanda''s Road to $1Million+: From 13 sales to 50 sales in 1 Yr'
 date: 2021-07-15 17:46:49
 tags:
   - Reviews and Referrals
