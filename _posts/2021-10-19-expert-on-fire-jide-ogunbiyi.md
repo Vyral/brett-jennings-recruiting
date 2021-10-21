@@ -16,9 +16,9 @@ youtube_code: bf0j2SL9SeI
 ---
 {% include youtube.html %}
 
-In this part of our Experts on Fire series, I’m talking with Jide Ogunbiyi. In less than three years in real estate, he’s had amazing success and has doubled his business each year. In fact, he is currently on track to reach over $1 million in GCI.
+In this part of our "Experts on Fire" series, I’m talking with Jide Ogunbiyi. In less than three years in real estate, he’s had amazing success and has doubled his business each year. In fact, he is currently on track to reach over $1 million in GCI.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
 0:23 — Introducing Jide Ogunbiyi
 
@@ -32,7 +32,7 @@ In this part of our Experts on Fire series, I’m talking with Jide Ogunbiyi. In
 
 7:30 — Year-over-year improvements
 
-8:49 — 2020 vs 2021
+8:49 — 2020 versus 2021
 
 9:46 — Having solid systems
 
@@ -42,4 +42,4 @@ In this part of our Experts on Fire series, I’m talking with Jide Ogunbiyi. In
 
 14:30 — Wrapping up
 
-If you have any questions, don’t hesitate to reach out to my team and me. I look forward to hearing from you and answering any questions you may have.
+If you have any questions, don’t hesitate to reach out to my team and me. I look forward to hearing from you.
