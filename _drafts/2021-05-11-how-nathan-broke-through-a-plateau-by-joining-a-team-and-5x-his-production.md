@@ -1,6 +1,8 @@
 ---
 layout: post
-title: How Nathan Broke Through a Plateau By Joining a Team and 5X His Production
+title: >-
+  Expert on Fire: How Nathan Broke Through a Plateau By Joining a Team and 5X
+  His Production
 date: 2021-05-11 20:24:00
 tags:
   - Transaction Management
