@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Transactions & $11M In Escrow in One Week!
+title: 'Expert on Fire: 10 Transactions & $11M In Escrow in One Week!'
 date: 2020-08-26 16:05:00
 tags:
   - Lead Conversion
@@ -15,7 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/nneka-jenkins-yt.jpg
 youtube_code: xjw6NE0t4dU
 ---
-
 {% include youtube.html %}
 
 <center><u><strong><a target="_blank" rel="noopener" href="https://vimeo.com/447022694">See Nneka&rsquo;s full Top Agent Panel Interview here!</a></strong></u></center>
