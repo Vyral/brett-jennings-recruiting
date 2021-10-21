@@ -11,8 +11,8 @@ pullquote: >-
   it’s high time we spotlighted his success.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/ryan-nickell-yt.jpg
 youtube_code: VKjcSRGjs0E
 ---
 {% include youtube.html %}
