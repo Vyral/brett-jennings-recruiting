@@ -5,7 +5,8 @@ date: 2021-11-30 22:19:32
 tags:
   - Transaction Management
 excerpt: Our latest Top Agent Panel discusses the best investment strategies.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2021/Agent+Panel_+Investing+%26+Year-End+Tax+Strategies.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
