@@ -5,7 +5,8 @@ date: 2022-01-06 20:12:50
 tags:
   - Reviews and Referrals
 excerpt: Laura Burke is January 2022’s Expert on Fire. Here’s her story.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2022/Expert+on+Fire_+Laura+Burke.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
