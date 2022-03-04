@@ -16,6 +16,8 @@ youtube_code: 0U2Nvi_M7bQ
 
 {% include excerpt.html %}
 
-It’s time once again to highlight a couple of “Experts on Fire” in our interview series: Haleem Ballou and Elva Robledo. Haleem has not only tripled his business this year, but he’s also cleared $1 million in GCI. Haleem knew he was going to have a career way back in college, and he’s really grabbed the bull by the horns. Elva didn’t know her path at first and started her career on the back-end of things. To learn about how they joined forces and found success, watch my latest video.
+It’s time once again to highlight a couple of “Experts on Fire” in our interview series: Haleem Ballou and Elva Robledo. Haleem has not only tripled his business this year, but he’s also cleared $1 million in GCI. Haleem knew he was going to have a career way back in college, and he’s really grabbed the bull by the horns. Elva didn’t know her path at first and started her career on the back-end of things.
+
+Haleem's and Elva's story is amazing. If you have any questions about them or real estate in general, feel free to call or email us. We'd love to chat.
 
 &nbsp;
