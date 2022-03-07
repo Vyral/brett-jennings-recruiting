@@ -14,7 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/lionel-youtube-1.jpg
 youtube_code: 82VxG1O_XuE
 ---
-
 {% include youtube.html %}
 
 Lionel Madamba has succeeded during shelter-in-place and is on his way to generating $6 M in buyers and new listings by showing clients what's happening with the market. I caught up with him recently for a discussion about what he’s been doing differently.
