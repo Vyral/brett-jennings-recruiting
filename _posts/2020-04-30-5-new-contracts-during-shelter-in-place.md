@@ -21,7 +21,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/success-during-shelter-in-place-youtube.jpg
 youtube_code: 12--q-ooaDY
 ---
-
 {% include youtube.html %}
 
 While some agents have furloughed themselves during Shelter in Place, Omid shifted his mindset and followed our lead to use this time to go deep on connecting with his clients, bringing clarity about the market and put 5 deals in contract in just 30 days\! Watch to see how he did it.
