@@ -16,7 +16,7 @@ youtube_code: vlGn6VZMIqs
 
 {% include excerpt.html %}
 
-In this segment of Expert on Fire, we’re catching up with Ryan Nickell. Ryan has been with us for a little over a year, and he’s been on quite a tear in that time. We wanted to unpack his progress and talk about what puts an agent on that path to success in the first place.
+In this segment of Expert on Fire, we’re catching up with Ryan Nickell. Ryan has been with us for just over a year, and he’s been on quite a tear in that time. We wanted to unpack his progress and talk about what puts an agent on that path to success in the first place.
 
 **You can watch the full video above or skip to each section using the timestamps provided:**
 
