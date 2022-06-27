@@ -4,7 +4,8 @@ title: 'Expert on Fire: Ryan Nickell'
 date: 2022-06-17 00:00:00
 tags:
 excerpt: How Ryan Nickell tripled his real estate business in just one year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/2022/Expert+on+Fire_+Ryan+Nickell.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
