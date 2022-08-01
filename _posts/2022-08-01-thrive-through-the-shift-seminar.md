@@ -16,7 +16,7 @@ youtube_code: https://youtu.be/CHuGXvYu7U4
 
 {% include excerpt.html %}
 
-### Here’s what will be covered in this info-packed session:
+**Here’s what will be covered in this info-packed session:**
 
 * Where the Market is headed through 2022 and how to prepare for it
 * How to identify the MOST motivated Buyers & Sellers that still want to transact
