@@ -4,7 +4,8 @@ title: Thrive Through the Shift Seminar
 date: 2022-08-01 05:00:00
 tags:
 excerpt: Watch the Replay from our Seminar on June 17th
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/2022/Thrive+Through+the+Shift+Seminar.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
