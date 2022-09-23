@@ -4,7 +4,8 @@ title: Top Agent Panel
 date: 2022-09-19 05:00:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2022/Top+Agent+Panel.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,6 +21,6 @@ This market is insane, right?
 
 Fast forward to today and listings are taking weeks, if not months to sell, and cancellations and expireds are the highest they've been in almost a decade.
 
-Yet, while all of this is happening, there are a handful of listing experts who know how to weather a shifting market, how to price them properly, and most importantly... how to get them SOLD.
+Yet, while all of this is happening, there are a handful of listing experts who know how to weather a shifting market, how to price them properly, and most importantly… how to get them SOLD.
 
-To help you do the same, we've assembled a panel of top agents who are going to pull back the curtain and share everything they know -- no holds barred -- about getting and selling listings in a shifting market.
+To help you do the same, we've assembled a panel of top agents who are going to pull back the curtain and share everything they know – no holds barred – about getting and selling listings in a shifting market.
