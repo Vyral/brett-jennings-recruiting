@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agents: How To Keep Buyers at the Table'
+title: This Is The Market You And Your Buyers Have Been Waiting For
 date: 2022-10-19 05:00:00
 tags:
 excerpt: This new option from lenders is sure to keep buyers in the game.
