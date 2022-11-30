@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make Your Business Recession-Proof
+title: 'Expert on Fire: How To Survive This Market'
 date: 2022-11-30 05:00:00
 tags:
 excerpt: How you should work to recession-proof your real estate business.
