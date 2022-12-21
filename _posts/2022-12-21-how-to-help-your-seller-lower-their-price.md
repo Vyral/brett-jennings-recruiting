@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Help Your Seller Lower Their Price
-date:
+date: 2022-12-21 00:00:00
 tags:
 excerpt: Three tips to help show your seller why they should adjust their price.
 enclosure:
