@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Top Agent Panel
+title: Getting Listings Sold In A Shifting Market
 date: 2022-09-19 05:00:00
 tags:
+  - Lead Conversion
+  - Lead Generation
 excerpt:
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brett+Jennings/+Videos/2022/Top+Agent+Panel.mp4
