@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Top Agent Secrets: Getting Clients Off The Fence In An Uncertain Market'
+title: Getting Clients Off The Fence In An Uncertain Market
 date: 2023-02-17 09:00:00
 tags:
   - Lead Generation
