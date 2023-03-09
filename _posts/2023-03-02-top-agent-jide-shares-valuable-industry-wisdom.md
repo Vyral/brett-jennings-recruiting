@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Expert on Fire: Jide Ogunbiyi'
+title: "JIDE\_SHARES\_THE SIMPLE TRUTHS TO MAKING A MILLION IN A DOWN MARKET"
 date: 2023-03-02 05:00:00
 tags:
 excerpt:
