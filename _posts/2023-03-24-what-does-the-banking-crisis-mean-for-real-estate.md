@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'What Does the Banking Crisis Mean for Real Estate '
+title: 'What Does the Banking Crisis Mean for Real Estate? '
 date: 2023-03-24 05:00:00
 tags:
 excerpt: Everything you need to know about the Silicon Valley Bank collapse.
