@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-45.jpg
+youtube_alternate_image: /uploads/brett-jennings-ss-template-4.jpg
 youtube_code: Gjs6ZSOInVE
 ---
 {% include youtube.html %}
