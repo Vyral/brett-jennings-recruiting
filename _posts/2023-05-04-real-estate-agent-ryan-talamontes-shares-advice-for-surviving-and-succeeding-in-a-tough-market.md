@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >-
-  Real Estate Agent Ryan Talamontes Shares Advice for Surviving and Succeeding
+  Real Estate Agent Ryan Talamantes Shares Advice for Surviving and Succeeding
   in a Tough Market
 date: 2023-05-04 05:00:00
 tags:
@@ -18,11 +18,11 @@ youtube_code: uYljBdrvS3s
 
 {% include excerpt.html %}
 
-Today, I had the pleasure of sitting down with Ryan Talamontes, who is an agent in Silicon Valley, and I had the good fortune to coach and assist in his career. Ryan had a challenging path in real estate and learned some important lessons that we’ll share with you. From surviving in a down market to re-evaluating your goals, we’ll go over all of the advice that Ryan has for agents.
+Today, I had the pleasure of sitting down with Ryan Talamantes, who is an agent in Silicon Valley, and I had the good fortune to coach and assist in his career. Ryan had a challenging path in real estate and learned some important lessons that we’ll share with you. From surviving in a down market to re-evaluating your goals, we’ll go over all of the advice that Ryan has for agents.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
-0:00 — Expert On Fire - Ryan Talamontes
+0:00 — Expert On Fire - Ryan Talamantes
 
 0:24 — Ryan’s story
 
