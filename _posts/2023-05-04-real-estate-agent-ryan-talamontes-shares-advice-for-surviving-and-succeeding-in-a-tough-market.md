@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Real Estate Agent Ryan Talamantes Shares Advice for Surviving and Succeeding
-  in a Tough Market
+title: 'Expert on Fire: How to Go From Stress to Success | Ryan Talamantes '
 date: 2023-05-04 05:00:00
 tags:
 excerpt: Ryan's insights can help you take your real estate career to the next level.
