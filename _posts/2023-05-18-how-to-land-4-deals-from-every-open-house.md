@@ -35,4 +35,8 @@ So, what will you learn? Why open house leads are superior to other lead sources
 * One Simple Script to Create a Caravan of Buyers Touring With You After the Open House.
 * The Ultimate Follow-Up Plan for Conversion and Pipeline Management of Open House Contacts.
 
-Our expert panelists include: Brett Jennings, Founder & Team Leader of Real Estate Experts (with over $2 Billion in Sales To-Date), and Joey DeBenedetto, Director of Growth of Real Estate Experts. Don't miss this incredible opportunity to master the art of the open house and take your real estate career to the next level!
+Our expert panelists include:
+
+Brett Jennings, Founder & Team Leader of Real Estate Experts (with over $2 Billion in Sales To-Date), and Joey DeBenedetto, Director of Growth of Real Estate Experts.
+
+Don't miss this incredible opportunity to master the art of the open house and take your real estate career to the next level!
