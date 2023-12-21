@@ -21,7 +21,7 @@ Today, we delve into the intricacies of the real estate market as we transition 
 
 0:00 — Introduction
 
-1:00 — Looking back: Comin out of Covid
+1:00 — Looking back: Coming out of Covid
 
 1:59 — The chilling effect on the market
 
