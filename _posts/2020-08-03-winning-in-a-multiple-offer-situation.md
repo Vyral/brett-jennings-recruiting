@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winning in a Multiple-Offer Situation
-date: 2020-08-03 17:26:00
+date: 2024-02-15 05:26:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -18,7 +18,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/multiple-offer-situation-youtube.jpg
 youtube_code: hrCcBO5t8bM
 ---
-
 {% include youtube.html %}
 
 Here are seven strategies you can use to help your buyers win out in a multiple-offer situation:&nbsp;
