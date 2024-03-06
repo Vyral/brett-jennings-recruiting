@@ -31,4 +31,4 @@ You’ll learn:
 * Creative ways to negotiate your fee so it doesn’t have to come out of your buyer's pocket
 * ...and so much more.
 
-Ready to learn how to powerfully navigate these shifting commission conversations with confidence and ease?Register now and reserve your seat.
+Ready to learn how to powerfully navigate these shifting commission conversations with confidence and ease?<br><br>Watch the replay to learn more.
