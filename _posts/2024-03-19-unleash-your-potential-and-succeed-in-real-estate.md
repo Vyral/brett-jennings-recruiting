@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unleash Your Potential and Succeed in Real Estate
+title: From Struggling to $7.5 Million in Sales in Two Months
 date: 2024-03-19 04:00:00
 excerpt: Witness Tony’s journey and how he built a thriving real estate business.
 enclosure:
@@ -8,7 +8,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/7.jpg
+youtube_alternate_image: /uploads/2-12.jpg
 youtube_code: _0nu-_bmrnQ
 ---
 {% include youtube.html %}
