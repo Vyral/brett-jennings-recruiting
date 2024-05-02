@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding Listings for Buyers
+title: Finding listings in a low inventory market
 date: 2024-04-26 05:00:00
 excerpt:
 enclosure:
@@ -24,7 +24,7 @@ Watch the replay as we discuss powerful and outside-the-box strategies to find l
 * How to manage your buyer's expectations so they successfully find and close on a home they'll love
 * How to prepare your potential buyers for a market that is highly competitive and fast-paced.
 * How to develop unique offer strategies that appeal to sellers, stand out, and give your buyer a competitive advantage.
-* ...And much more
+* …And much more
 
 Ready to help your buyers WIN in today's market?
 
