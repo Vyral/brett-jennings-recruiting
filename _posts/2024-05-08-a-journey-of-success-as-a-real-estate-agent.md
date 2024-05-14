@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Journey of Success as a Real Estate Agent
+title: How Did Jackie Wolf Secure 6 Deals in Just 3 Months
 date: 2024-05-08 05:00:00
 excerpt: Gain insights and success strategies from real estate agent, Jackie Wolf.
 enclosure:
@@ -8,7 +8,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2-25-1.jpg
+youtube_alternate_image: /uploads/4-2.jpg
 youtube_code: Ra95GOsSdh8
 ---
 {% include youtube.html %}
