@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Did Jackie Wolf Secure 6 Deals in Just 3 Months
+title: Jackie’s Secret to Closing 2 Deals a Month in a Tight Market
 date: 2024-05-08 05:00:00
 excerpt: Gain insights and success strategies from real estate agent, Jackie Wolf.
 enclosure:
