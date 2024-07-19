@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/https-cdn-evbuc-com-images-774912919-284564692102-1-original.jpeg
 youtube_code: DcvTKDvnQgg
 ---
 {% include youtube.html %}
