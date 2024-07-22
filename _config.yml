@@ -11,10 +11,6 @@ markdown: kramdown
 #Handling Reading
 encoding: "utf-8"
 
-collections:
-  podcast:
-    output: true
-
 # Build settings
 markdown: kramdown
 kramdown:
