@@ -6,6 +6,7 @@ tags:
 excerpt:
 enclosure:
 pullquote:
+category:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
