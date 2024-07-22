@@ -6,7 +6,7 @@ tags:
 excerpt:
 enclosure:
 pullquote:
-category: [Blog, Podcast]
+category: Blog, Podcast
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
