@@ -20,6 +20,9 @@ highlighter: rouge
 paginate: 6
 permalink: none
 
+collections:
+  podcast:
+
 gems:
   - jemoji
   - octopress-autoprefixer
