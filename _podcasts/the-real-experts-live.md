@@ -5,12 +5,13 @@ date: 2024-07-23 00:00:00
 excerpt: >-
   When I made this discovery and made personal growth a priority for me and my
   team, our business literally exploded.
+youtube_alternate_image:
+pullquote:
 ---
-```
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2wjvEEmfKGKqOVGyh0wvG0/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-```
 
 {% include excerpt.html %}
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2wjvEEmfKGKqOVGyh0wvG0/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Have you ever wondered what is that "X factor" that separates the average agents from top producers?<br><br>I did.
 
@@ -33,3 +34,5 @@ Join me as I dive deep into conversations with extraordinary individuals to talk
 We'll discuss themes like finding your purpose, adding value to others' lives, and the power of intention. You'll hear how clarity of vision can lead to remarkable transformations, both personally and professionally.
 
 &nbsp;
+
+{% include pullquote.html %}
