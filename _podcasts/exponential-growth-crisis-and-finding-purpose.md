@@ -4,7 +4,11 @@ title: Exponential Growth Facing Crisis and Finding Purpose
 date: 2024-07-24 17:53:00
 tags:
 excerpt:
+youtube_alternate_image:
+pullquote:
 ---
+
+{% include excerpt.html %}
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0Z7pvzo2bYcnfmwnPVrECN/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -23,3 +27,6 @@ In this episode, Amy reveals how she turned a string of personal challenges into
 
 
 Amy also reveals how learning to hone and work with intuition has lead her to make bold moves that have had a huge impact beyond real estate, like starting a women's event out of the blue. This event was about empowering women to push past doubts and chase their dreams.
+
+
+{% include pullquote.html %}
