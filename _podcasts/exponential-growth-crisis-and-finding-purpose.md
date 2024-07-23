@@ -2,7 +2,10 @@
 layout: post
 title: Exponential Growth Facing Crisis and Finding Purpose
 date: 2024-07-24 17:53:00
-excerpt:
+excerpt: >-
+  Join Brett Jennings, the founder of Real Estate Experts, and Amy Wienands,
+  President and CEO of Amy Wienands Real Estate, in the first-ever interview on
+  The Real Experts podcast.
 youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
 pullquote:
 ---
