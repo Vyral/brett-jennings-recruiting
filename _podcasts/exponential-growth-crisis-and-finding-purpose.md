@@ -7,7 +7,7 @@ excerpt: >-
   President and CEO of Amy Wienands Real Estate, in the first-ever interview on
   The Real Experts podcast.
 youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
-pullquote:
+pullquote: Unique perspective on helping others through challenges
 ---
 {% include excerpt.html %}
 

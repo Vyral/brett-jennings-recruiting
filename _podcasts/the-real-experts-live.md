@@ -6,7 +6,7 @@ excerpt: >-
   When I made this discovery and made personal growth a priority for me and my
   team, our business literally exploded.
 youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
-pullquote:
+pullquote: The growth of your business is INSIDE you, not outside you
 ---
 
 {% include excerpt.html %}
