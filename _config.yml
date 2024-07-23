@@ -22,6 +22,7 @@ permalink: none
 
 collections:
   podcasts:
+    output: true
 
 gems:
   - jemoji
