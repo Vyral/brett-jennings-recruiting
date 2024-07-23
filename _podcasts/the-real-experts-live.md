@@ -5,7 +5,7 @@ date: 2024-07-23 00:00:00
 excerpt: >-
   When I made this discovery and made personal growth a priority for me and my
   team, our business literally exploded.
-youtube_alternate_image:
+youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
 pullquote:
 ---
 
