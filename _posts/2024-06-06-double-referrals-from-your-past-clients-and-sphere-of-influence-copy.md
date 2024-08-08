@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Add $100K To Your Income With Just One Deal 8.8
+title: How to Add $100K To Your Income With Just One Deal
 date: 2024-08-08 05:00:00
 tags:
   - Lead Generation
