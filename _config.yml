@@ -24,7 +24,7 @@ collections:
   podcasts:
     output: true
 
-gems:
+plugins:
   - jemoji
   - octopress-autoprefixer
   - jekyll-paginate
