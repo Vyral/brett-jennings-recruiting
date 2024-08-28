@@ -8,7 +8,9 @@ excerpt: >-
   from practicing law in Egypt to leading a top-performing real estate team in
   Canada is nothing short of inspiring.
 youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
-pullquote:
+pullquote: >-
+  Importance of leading with heart and aligning business goals with personal
+  values.
 ---
 {% include excerpt.html %}
 
