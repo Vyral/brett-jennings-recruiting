@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building a 400M Purpose Driven real Estate team
-date:
+date: 2024-08-28 00:00:00
 excerpt: >-
   Join Brett Jennings, the host of The Real Experts Podcast, as he sits down
   with Ibrahim Hussein, the Founder of Affinity Real Estate. Ibrahim’s journey
