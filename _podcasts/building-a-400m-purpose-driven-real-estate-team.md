@@ -7,7 +7,7 @@ excerpt: >-
   with Ibrahim Hussein, the Founder of Affinity Real Estate. Ibrahim’s journey
   from practicing law in Egypt to leading a top-performing real estate team in
   Canada is nothing short of inspiring.
-youtube_alternate_image:
+youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
 pullquote:
 ---
 {% include excerpt.html %}
