@@ -13,6 +13,8 @@ youtube_code: J7YMBFBW_rw
 ---
 {% include youtube.html %}
 
+{% include preheader.html %}
+
 Unless you’ve been living under a rock, you’ve heard about the recent NAR lawsuit and its potential consequences. Here’s the short version: The way buyer’s agents get paid is going to change. Now, buyer’s agency agreements will need to be signed, commissions will need to be clearly disclosed ahead of time, and commission percentages won’t be advertised in the MLS. While sellers can still contribute to your commission, this rate is negotiable. When this news first broke, many buyers' agents thought the sky was falling. However, now we know you can still thrive as a buyer’s agent in this market; you just need to adapt. Here are three steps you can take to make sure you get paid in this new landscape:
 
 **1\. You need to prequalify buyers now.** Just like before, buyers will start their home searches by calling agents. This is where you can use the LPMAMA script to set up an appointment time and secure their business. If you don’t already know, the LPMAMA script is a tried-and-true script that reminds you to hit the key points on the phone to prequalify your buyer and set an appointment. It stands for Location, Price, Motivation, Agreement, Mortgage, and Appointment. By asking the buyer questions about these items in order, you can focus on your buyer’s wants and needs before discussing ability and what they need. Reach out if you have further questions about this script.
