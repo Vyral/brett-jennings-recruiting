@@ -15,6 +15,8 @@ youtube_code: ywgXjd2Gl40
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Are you offering your clients different commission packages? If you aren’t, you probably should. Top agents use this powerful strategy to provide value to their clients and position themselves as experts you can hire without breaking the bank. However, if you’ve never offered commission packages before or are new to the idea, you might not understand what you should do or are trying to accomplish. That’s why today, I’m breaking down the best strategy for presenting commission packages and sharing how you can position yourself to earn more per transaction.
 
 Essentially, the strategy goes like this: You should offer three commission packages at different rates and levels of service. However, the cheapest option and the most expensive one are strategically designed to push people towards viewing your middle option as the best deal. Here’s how each one of your options should work:
