@@ -13,6 +13,8 @@ pullquote: Unique perspective on helping others through challenges
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0Z7pvzo2bYcnfmwnPVrECN/video?utm_source=generator" width="624" height="351" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+&nbsp;
+
 Join Brett Jennings, the founder of Real Estate Experts, and Amy Wienands, President and CEO of Amy Wienands Real Estate, in the first-ever interview on The Real Experts podcast.
 
 Amy’s journey didn’t begin with selling houses. Her career began rooted in service, first in psychology and then ministry. However, life’s twists and turns led her to real estate, where she’s been making a positive impact and achieving extraordinary success for nearly 30 years.
