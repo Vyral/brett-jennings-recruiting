@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >-
-  EP02: Prupose and Profit: Building a $400M Purpose Driven Real Estate Team
+  EP02: Purpose and Profit: Building a $400M Purpose Driven Real Estate Team
   with Ibrahim Hussein
 date: 2024-08-08 00:00:00
 excerpt: >-
