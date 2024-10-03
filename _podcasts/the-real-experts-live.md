@@ -14,6 +14,8 @@ pullquote: The growth of your business is INSIDE you, not outside you
 
 &nbsp;
 
+&nbsp;
+
 Have you ever wondered what is that “X factor” that separates the average agents from top producers?<br><br>I did.
 
 But for me it wasn’t just a curiosity, it was an obsession.
