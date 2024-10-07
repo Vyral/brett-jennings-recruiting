@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Do I Present Commission Options to a Seller?
+title: How to Command up to 80% More Commission on Your Listings
 date: 2024-08-29 05:00:00
 excerpt: >-
   Are you looking to earn more commission per transaction? Check out this video
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/4-5.jpg
-youtube_code: ywgXjd2Gl40
+youtube_code: DiDerl5mL_4
 ---
 {% include youtube.html %}
 
