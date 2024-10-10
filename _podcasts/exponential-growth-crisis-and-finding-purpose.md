@@ -8,15 +8,16 @@ excerpt: >-
   The Real Experts podcast.
 youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
 pullquote: Unique perspective on helping others through challenges
-podcast_embed_episode: ''
+podcast_embed_episode: >-
+  <iframe style="border-radius:12px"
+  src="https://open.spotify.com/embed/episode/0Z7pvzo2bYcnfmwnPVrECN/video?utm_source=generator"
+  width="624" height="351" frameborder="0" allowfullscreen="" allow="autoplay;
+  clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"></iframe>
 ---
 {% include excerpt.html %}
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0Z7pvzo2bYcnfmwnPVrECN/video?utm_source=generator" width="624" height="351" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-&nbsp;
-
-&nbsp;
+{% include podcast-iframe.html %}
 
 Join Brett Jennings, the founder of Real Estate Experts, and Amy Wienands, President and CEO of Amy Wienands Real Estate, in the first-ever interview on The Real Experts podcast.
 
