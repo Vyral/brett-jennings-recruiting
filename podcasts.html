@@ -5,7 +5,7 @@ title: Podcasts
 
 <h1>Podcasts</h1>
 
-{% for podcast in site.podcasts %}
+{% for podcast in paginator.site.podcasts %}
 <div class="row content-container">
     <!-- <div class="col-sm-12"> -->
         <h2 class="post-overview-title"><a class="post-link" href="{{ podcast.url }}">{{ podcast.title | truncate: 70 }}</a></h2>
