@@ -11,6 +11,8 @@ podcast_embed_episode: >-
 ---
 {% include excerpt.html %}
 
+{% include podcast-iframe.html %}
+
 Paste podcasts iframe code here.
 
 Input podcasts description here.
