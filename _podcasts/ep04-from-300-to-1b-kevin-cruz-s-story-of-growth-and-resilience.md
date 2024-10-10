@@ -9,6 +9,11 @@ excerpt: >-
 youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
 pullquote:
 podcast_embed_episode: >-
+  <iframe style="border-radius:12px"
+  src="https://open.spotify.com/embed/episode/0RGAotGREBJhsOSzkHQ02s/video?utm_source=generator"
+  width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay;
+  clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"></iframe>
 ---
 {% include excerpt.html %}
 
