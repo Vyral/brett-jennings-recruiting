@@ -15,6 +15,8 @@ podcast_embed_episode: >-
 ---
 {% include excerpt.html %}
 
+{% include podcast-iframe.html %}
+
 &lt;iframe style=”border-radius:12px” src=”https://open.spotify.com/embed/episode/1phSIiex3ZAnzFqTBULpse/video?utm\_source=generator” width=”624” height=”351” frameBorder=”0” allowfullscreen=”” allow=”autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture” loading=”lazy”&gt;&lt;/iframe&gt;
 
 Welcome to another episode of The Real Experts Podcast. Join Brett Jennings, the founder of Real Experts Podcast, as he has a conversation with Dave Ness, the founder and president of Thrive Real Estate Group. Dave’s journey in real estate began out of necessity during the 2008 market downturn, transitioning from a successful development career to becoming a real estate agent.
