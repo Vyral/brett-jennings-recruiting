@@ -13,15 +13,16 @@ youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
 pullquote: >-
   Importance of leading with heart and aligning business goals with personal
   values.
-podcast_embed_episode: >- 
+podcast_embed_episode: >-
+  <iframe style="border-radius:12px"
+  src="https://open.spotify.com/embed/episode/63EodEgjQ5rpfe9M8e6Qrr/video?utm_source=generator"
+  width="624" height="351" frameborder="0" allowfullscreen="" allow="autoplay;
+  clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"></iframe>
 ---
 {% include excerpt.html %}
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/63EodEgjQ5rpfe9M8e6Qrr/video?utm_source=generator" width="624" height="351" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-&nbsp;
-
-&nbsp;
+{% include podcast-iframe.html %}
 
 Join Brett Jennings, the host of The Real Experts Podcast, as he sits down with Ibrahim Hussein, the Founder of Affinity Real Estate. Ibrahim’s journey from practicing law in Egypt to leading a top-performing real estate team in Canada is nothing short of inspiring.
 
