@@ -6,18 +6,18 @@ tags:
 excerpt: >-
   Join Brett Jennings, the founder of Real Experts, and Kevin Cruz, the founder
   and president of Kinetic Real Estate
-youtube_alternate_image:
+youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
 pullquote:
 ---
 {% include excerpt.html %}
 
-&lt;iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0RGAotGREBJhsOSzkHQ02s/video?utm\_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"&gt;&lt;/iframe&gt;
+&lt;iframe style=”border-radius:12px” src=”https://open.spotify.com/embed/episode/0RGAotGREBJhsOSzkHQ02s/video?utm\_source=generator” width=”624” height=”351” frameBorder=”0” allowfullscreen=”” allow=”autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture” loading=”lazy”&gt;&lt;/iframe&gt;
 
 Join Brett Jennings, the founder of Real Experts, and Kevin Cruz, the founder and president of Kinetic Real Estate, one of the top 15 Mega Teams in California and ranked \#54 in the US with over $1 billion in real estate sold, in this episode of The Real Experts podcast.
 
-Kevin's journey began in the Philippines, where he immigrated to the U.S. at the age of 13. Starting with just $300, Kevin's entrepreneurial spirit led him to a range of ventures, from working in a pizza shop to launching his own event production company.
+Kevin’s journey began in the Philippines, where he immigrated to the U.S. at the age of 13. Starting with just $300, Kevin’s entrepreneurial spirit led him to a range of ventures, from working in a pizza shop to launching his own event production company.
 
-Kevin's story is not just about business success. He navigated immigration hurdles, early setbacks in multi-level marketing, and the pivot to real estate. Each experience shaped his mindset and approach to helping others.
+Kevin’s story is not just about business success. He navigated immigration hurdles, early setbacks in multi-level marketing, and the pivot to real estate. Each experience shaped his mindset and approach to helping others.
 
 Starting part-time in real estate in 2015, Kevin quickly realized the importance of personal development and mentorship. By 2021, he scaled his business to over 250 units annually, emphasizing client care and leveraging social media.
 
@@ -25,7 +25,7 @@ Kevin shares how he turned personal challenges into growth opportunities, the im
 
 Here are the key takeaways:
 
-(3:18) How did "$300 bucks enterprises" start with just $300?
+(3:18) How did “$300 bucks enterprises” start with just $300?
 
 (5:33) Dropping out of college to chase millionaire dreams
 
@@ -43,9 +43,9 @@ Here are the key takeaways:
 
 (24:32) The best advice for ambitious entrepreneurs
 
-As we delve into Kevin's story, we explore broader themes of resilience, personal growth, and the power of community. How do we balance ambition with making a meaningful impact? And how do our biggest challenges become our greatest achievements?
+As we delve into Kevin’s story, we explore broader themes of resilience, personal growth, and the power of community. How do we balance ambition with making a meaningful impact? And how do our biggest challenges become our greatest achievements?
 
-Join us to hear how Kevin's journey goes beyond business success, highlighting his impact on others and his vision for the future.
+Join us to hear how Kevin’s journey goes beyond business success, highlighting his impact on others and his vision for the future.
 
 **About Kevin Cruz**
 
