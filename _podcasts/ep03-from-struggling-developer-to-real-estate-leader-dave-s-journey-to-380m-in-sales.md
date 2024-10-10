@@ -11,6 +11,7 @@ excerpt: >-
   Group.
 youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
 pullquote:
+podcast_embed_episode: >-
 ---
 {% include excerpt.html %}
 

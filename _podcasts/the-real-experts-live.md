@@ -7,6 +7,7 @@ excerpt: >-
   team, our business literally exploded.
 youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
 pullquote: The growth of your business is INSIDE you, not outside you
+podcast_embed_episode: >-
 ---
 {% include excerpt.html %}
 
