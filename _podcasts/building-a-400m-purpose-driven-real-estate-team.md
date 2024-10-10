@@ -13,6 +13,7 @@ youtube_alternate_image: /uploads/brett-jennings-podcast-img.webp
 pullquote: >-
   Importance of leading with heart and aligning business goals with personal
   values.
+podcast_embed_episode: >- 
 ---
 {% include excerpt.html %}
 
