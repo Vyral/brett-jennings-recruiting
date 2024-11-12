@@ -2,7 +2,7 @@
 layout: post
 title: 5 Elements To Make 2025 Your Best Year Ever
 date: 2024-11-04 05:00:00
-excerpt: If 2024 wasn’t all you’d hoped for, I’ve got good news for you.
+excerpt: According to market analysts in 2025, the market will come alive.
 enclosure:
 pullquote: According to market analysts in 2025, the market will come alive.
 enclosure_type: video/mp4
