@@ -59,6 +59,6 @@ But I’ve got good news for you. You don’t have to. This is exactly why I cre
 
 Over the next five weeks, I’ll be going deeper into each of the five elements you need to do to make 2025 your best year ever
 
-If you really want to guarantee your success, join us live on Wednesday, December 11th, in our Campbell offices. We'll be going deeper into each of the five elements you need to make 2025 your best year ever. We have space for only 60 people, [so reserve your spot today](https://www.eventbrite.com/e/top-agent-secrets-5-keys-to-thrive-in-2025-tickets-1083491565439?aff=oddtdtcreator){: target="_blank" rel="noopener"}.
+If you really want to guarantee your success, join us live on Wednesday, December 11th, in our Campbell offices. We’ll be going deeper into each of the five elements you need to make 2025 your best year ever. We have space for only 60 people, [so reserve your spot today](https://www.eventbrite.com/e/top-agent-secrets-5-keys-to-thrive-in-2025-tickets-1083491565439?aff=oddtdtcreator){: target="_blank" rel="noopener"}.
 
 Thanks for watching.
