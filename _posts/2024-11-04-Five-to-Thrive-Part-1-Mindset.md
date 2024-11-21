@@ -15,6 +15,8 @@ youtube_code: L-CGFPkof2I
 
 {% include excerpt.html %}
 
+[**REGISTER HERE FOR OUR 5 TO THRIVE IN 2025 EVENT ON DECEMBER 11TH**](https://www.eventbrite.com/e/top-agent-secrets-5-keys-to-thrive-in-2025-tickets-1083491565439?aff=oddtdtcreator){: target="_blank" rel="noopener"}
+
 Welcome back to *5 to Thrive in 2025*! If you’re reading this, it’s because you’re ready to make 2025 your best year yet. And here’s the truth: the first step in getting there has nothing to do with the market or even doing deals. It’s all about what’s going on *right here*—*your mindset*. Having worked for Tony Robbins is a passion of mine because Your mindset will determine at least 80% of your success so let’s dig into what it means to get your mindset right for the year ahead.
 
 So, if you want to thrive in 2025, the first thing you have to do is choose a *positive mindset*. And I say CHOOSE for a reason Let’s be real—real estate is tough. Every day we’re dealing with rejection, setbacks, and challenging situations. If you’re in this game and you’re serious about growth, negativity will always be part of the equation. The difference is how you choose to handle it. Choosing positivity doesn’t mean being pollyanna or pretending there aren’t any problems; it means choosing to see each one as an opportunity and choosing to look for the silver lining in every situation so you bounce back stronger each day.
