@@ -15,6 +15,8 @@ youtube_code: 0OCBvJGss9U
 
 {% include excerpt.html %}
 
+[**REGSITER HERE FOR OUR 5 TO THRIVE IN 2025 EVENT ON DECEMBER 11TH**](https://www.eventbrite.com/e/top-agent-secrets-5-keys-to-thrive-in-2025-tickets-1083491565439?aff=oddtdtcreator){: target="_blank" rel="noopener"}
+
 If 2024 wasn’t all you’d hoped for, I’ve got good news for you.
 
 According to market analysts in 2025, the market will come alive.
