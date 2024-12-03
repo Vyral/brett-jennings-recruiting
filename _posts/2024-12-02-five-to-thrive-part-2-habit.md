@@ -65,7 +65,7 @@ T in habit stand stands for thinking ahead to dominate your day. This means taki
 
 This last habit when you get it right can be a total game changer. Tony Fery was an agent I coached and when Tony started working with me, he was making less than $100,000 a year. Within 18 months of implementing this single habit his income went to over $500,000 a year
 
-And to make this simple I’m going to give you a tool to fill out every day to will keep you focused on the opportunities in your business that truly move the needle.
+And to make this simple [**I’m going to give you a tool to fill out every day to will keep you focused**](https://drive.google.com/file/d/1Mt4xy3XkWzCCMXjSNNFsKK26jhiIMDjk/view){: target="_blank" rel="noopener"} on the opportunities in your business that truly move the needle.
 
 It’s a simple form called “Dominate Your Day” and when you fill it out daily, that’s exactly what will happen.
 
