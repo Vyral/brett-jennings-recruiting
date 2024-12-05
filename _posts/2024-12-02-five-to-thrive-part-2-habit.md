@@ -15,9 +15,11 @@ youtube_code: D36ZaXq65ew
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 [**REGISTER HERE FOR OUR 5 TO THRIVE IN 2025 EVENT ON DECEMBER 11TH**](https://www.eventbrite.com/e/top-agent-secrets-5-keys-to-thrive-in-2025-tickets-1083491565439?aff=oddtdtcreator){: target="_blank" rel="noopener"}
+
+[**Get My "Dominate Your Day" PDF**](https://jennings-dominateyourday.paperform.co/){: target="_blank" rel="noopener"}
+
+{% include excerpt.html %}
 
 Welcome back to the Five to Thrive in ‘25 where we’re talking about the five things you have to get right to thrive in 2025.
 
@@ -89,4 +91,4 @@ If you feel excited or inspired about what you’ve heard here join us for the F
 
 Have a great one.
 
-[**Click here**](https://www.eventbrite.com/e/top-agent-secrets-5-keys-to-thrive-in-2025-tickets-1083491565439?aff=oddtdtcreator){: target="_blank" rel="noopener"} for details and we hope to see you there.
+[**Click here**](https://www.eventbrite.com/e/top-agent-secrets-5-keys-to-thrive-in-2025-tickets-1083491565439?aff=oddtdtcreator){: target="_blank" rel="noopener"} for details and we hope to see you there.<br><br>[**Get My "Dominate Your Day" PDF**](https://jennings-dominateyourday.paperform.co/){: target="_blank" rel="noopener"}
