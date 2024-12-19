@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'EP05: The Bold Moves To Go From Agent to Team Leader To Investor'
+title: 'EP05: The Bold Moves to Go From Agent to Team Leader to Investor'
 date: 2024-12-16 00:00:00
 tags:
 excerpt: >-
