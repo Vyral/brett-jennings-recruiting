@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'EP06: How Brian Charlesworth Took Sisu from 5 to 70,000 Users'
+title: 'EP06: Using Technology and Accountability to Scale Success'
 date: 2024-12-19 00:00:00
 tags:
 excerpt: >-
