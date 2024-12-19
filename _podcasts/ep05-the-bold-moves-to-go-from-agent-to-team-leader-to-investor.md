@@ -19,10 +19,6 @@ podcast_embed_episode: >-
 
 {% include podcast-iframe.html %}
 
-```
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7aJCMZLic5mn3WtSCLMHyv/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-```
-
 Join us on this episode of The Real Experts Podcast as we sit down with Neil Canlas, the co-founder of The Canlas Brothers Real Estate Group.
 
 Neil’s journey into real estate isn’t your typical story—it’s a tale of taking risks, learning from every experience, and ultimately reshaping his career. In a market as cutthroat as San Francisco, Neil’s success is a testament to his relentless drive and innovative approach.
