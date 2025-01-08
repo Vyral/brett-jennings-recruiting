@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are Today’s Best Sources for Seller Leads?
+title: 3 Best Sources for Seller Leads in 2025
 date: 2024-11-04 05:00:00
 excerpt: >-
   Real estate agents can overcome lead scarcity by using existing networks,
