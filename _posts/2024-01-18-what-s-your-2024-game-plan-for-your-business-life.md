@@ -65,7 +65,7 @@ You become UNSTOPPABLE.&nbsp;
 
 So to guide you in the creation of your Business Plan I am sharing a copy of my exact business plan for 2024.
 
-[**You can download a free copy of my 2025 business plan here \[PDF\]**](https://realestateexperts-businessplan.paperform.co/){: target="_blank" rel="noopener"}
+[**You can download a free copy of my 2025 business plan here \[PDF\]**](https://jennings-businessplan.paperform.co/){: target="_blank" rel="noopener"}
 
 Copy my plan and use it in your own business. But, honestly, to be most effective, you should customize the plan specific to your goals, and if you want help on that no problem.
 
