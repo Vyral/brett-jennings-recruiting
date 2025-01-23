@@ -17,13 +17,13 @@ youtube_code: LQAIYCKX5Ss
 
 Did you do it?
 
-Did you set your personal goals and create your business plan for 2024?<br>Creating a clear plan powered by a BIG WHY is not that hard, and when you do...
+Did you set your personal goals and create your business plan for 2025?<br>Creating a clear plan powered by a BIG WHY is not that hard, and when you do...
 
 You can make MAGIC happen.
 
 Literally…MAGIC!
 
-This past week I got together with some friends and fellow agents for a few hours to do our annual goal-setting process and update my Life & Business Plans for 2024&nbsp;
+This past week I got together with some friends and fellow agents for a few hours to do our annual goal-setting process and update my Life & Business Plans for 2025&nbsp;
 
 We set personal goals, investment goals & business goals. &nbsp;Of course, we also included the most important stuff – health, family, travel, etc.
 
@@ -65,10 +65,10 @@ You become UNSTOPPABLE.&nbsp;
 
 So to guide you in the creation of your Business Plan I am sharing a copy of my exact business plan for 2024.
 
-[**You can download a free copy of my 2024 business plan here \[PDF\]**](https://realestateexperts-businessplan.paperform.co/){: target="_blank" rel="noopener"}
+[**You can download a free copy of my 2025 business plan here \[PDF\]**](https://realestateexperts-businessplan.paperform.co/){: target="_blank" rel="noopener"}
 
 Copy my plan and use it in your own business. But, honestly, to be most effective, you should customize the plan specific to your goals, and if you want help on that no problem.
 
 Simply [**schedule a strategy call**](https://calendly.com/joeyd-rex/30-min-business-planning-strategy-session?back=1&amp;month=2024-02){: target="_blank" rel="noopener"} and my partner Joey or I will walk you through the business plan template in detail and customize it for your goals in 2024...no strings attached
 
-I want to be a positive influence for you and this is my gift to you. I hope you find value in it and it moves you in the direction of making 2024 your Best Year Ever.
+I want to be a positive influence for you and this is my gift to you. I hope you find value in it and it moves you in the direction of making 2025 your Best Year Ever.
