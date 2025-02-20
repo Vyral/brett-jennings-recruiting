@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How a Real Estate Agent Made $200K on Her 1st Flip Project
+title: How Olympia Made $200K on Her 1st Flip Project
 date: 2025-02-12 05:00:00
 excerpt: 'An agent flipped a house for the first time and made $200K: Here’s how.'
 enclosure:
