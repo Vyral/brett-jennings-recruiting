@@ -27,7 +27,11 @@ So how do you keep your sphere engaged and referrals flowing all season long? In
 
 Keep them informed by sending quick market updates, price trends, and “just sold” stories to maintain their interest. Use FOMO to your advantage by reminding them that buyers are out in full force, making now the perfect time to make a move.
 
-You can also tie your referral question to the season, saying something like, *“Spring is the best time to sell—do you know anyone thinking about moving?”* The more engaged your sphere is, the more referrals they’ll send your way.<br><br>**2\.** **Offer seasonal value beyond real estate.** Here’s the truth: People don’t want to be sold to—they want to be helped. The best way to stay top of mind is by consistently providing value beyond the transaction.
+You can also tie your referral question to the season, saying something like, *“Spring is the best time to sell—do you know anyone thinking about moving?”* The more engaged your sphere is, the more referrals they’ll send your way.<br>
+
+{% include pullquote.html %}
+
+<br>**2\.** **Offer seasonal value beyond real estate.** Here’s the truth: People don’t want to be sold to—they want to be helped. The best way to stay top of mind is by consistently providing value beyond the transaction.
 
 Instead of telling them how good the house is through your listing, show them the lifestyle that they can achieve living in your home. You can also create content and conversations around things like spring cleaning and home organization tips, de-winterizing and home maintenance checklists, and local spring events or community happenings.
 
