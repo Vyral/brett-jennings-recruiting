@@ -25,6 +25,8 @@ So how do you keep your sphere engaged and referrals flowing all season long? In
 
 **1\. Leverage the spring market boom.** Spring is the real estate power season. Based on historical data from NAR, home sales typically increase by over 30% between March and June, and prices can rise by 3-5% depending on the market. More transactions mean more opportunities for you—but only if your sphere knows how active the market is.
 
+For an example of an engaging Market Update, check out our [**Winter Market Forecast video**](https://www.youtube.com/watch?v=shRCkfNOOuE&amp;t=81s){: target="_blank" rel="noopener"}.
+
 Keep them informed by sending quick market updates, price trends, and “just sold” stories to maintain their interest. Use FOMO to your advantage by reminding them that buyers are out in full force, making now the perfect time to make a move.
 
 You can also tie your referral question to the season, saying something like, *“Spring is the best time to sell—do you know anyone thinking about moving?”* The more engaged your sphere is, the more referrals they’ll send your way.<br>
@@ -34,6 +36,8 @@ You can also tie your referral question to the season, saying something like, *�
 <br>**2\.** **Offer seasonal value beyond real estate.** Here’s the truth: People don’t want to be sold to—they want to be helped. The best way to stay top of mind is by consistently providing value beyond the transaction.
 
 Instead of telling them how good the house is through your listing, show them the lifestyle that they can achieve living in your home. You can also create content and conversations around things like spring cleaning and home organization tips, de-winterizing and home maintenance checklists, and local spring events or community happenings.
+
+For an example, check out the video we recently shot on the [**"The 5 Home Improvements That Will Get You a Big Return"**](https://www.youtube.com/watch?v=WoiwTZLF4CM){: target="_blank" rel="noopener"}.
 
 Leverage life events, too. Spring is full of milestones like graduations, weddings, and relocations, and these moments often trigger real estate decisions. Celebrate these milestones with your sphere while gently reminding them that you’re their go-to real estate expert. It’s not just about selling homes—it’s about building relationships that lead to referrals.
 
