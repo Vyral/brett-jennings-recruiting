@@ -19,7 +19,7 @@ youtube_code: TB7gbfpE954
 
 {% include excerpt.html %}
 
-Spring is coming, and with it, the busiest real estate season of the year. But will your sphere be working for you? If you want consistent, high-quality referrals, you need a system for staying top-of-mind. Today, I’m sharing three proven strategies to maximize your sphere connections and turn relationships into real business in 2025.<br><br>March is here, and spring is right around the corner. This is when buyers flood the market, sales activity surges, and home values climb—but that only matters if you’re getting the leads and referrals you need to take advantage of it.
+[**Winter Market Update: What’s Next for the Bay Area in 2025**](https://www.youtube.com/watch?v=shRCkfNOOuE&amp;t=81s){: target="_blank" rel="noopener"}<br><br>[**The 5 Home Improvements That Will Get You a Big Return**](https://www.youtube.com/watch?v=WoiwTZLF4CM){: target="_blank" rel="noopener"}<br><br>Spring is coming, and with it, the busiest real estate season of the year. But will your sphere be working for you? If you want consistent, high-quality referrals, you need a system for staying top-of-mind. Today, I’m sharing three proven strategies to maximize your sphere connections and turn relationships into real business in 2025.<br><br>March is here, and spring is right around the corner. This is when buyers flood the market, sales activity surges, and home values climb—but that only matters if you’re getting the leads and referrals you need to take advantage of it.
 
 So how do you keep your sphere engaged and referrals flowing all season long? In this video, I’ll share three simple yet powerful ways to stay connected, add value, and make sure your name is the first one people think of when they hear, ‘I’m thinking of buying or selling.
 
@@ -37,7 +37,7 @@ You can also tie your referral question to the season, saying something like, *�
 
 Instead of telling them how good the house is through your listing, show them the lifestyle that they can achieve living in your home. You can also create content and conversations around things like spring cleaning and home organization tips, de-winterizing and home maintenance checklists, and local spring events or community happenings.
 
-For an example, check out the video we recently shot on the [**"The 5 Home Improvements That Will Get You a Big Return"**](https://www.youtube.com/watch?v=WoiwTZLF4CM){: target="_blank" rel="noopener"}.
+For an example, check out the video we recently shot on the [**“The 5 Home Improvements That Will Get You a Big Return”**](https://www.youtube.com/watch?v=WoiwTZLF4CM){: target="_blank" rel="noopener"}.
 
 Leverage life events, too. Spring is full of milestones like graduations, weddings, and relocations, and these moments often trigger real estate decisions. Celebrate these milestones with your sphere while gently reminding them that you’re their go-to real estate expert. It’s not just about selling homes—it’s about building relationships that lead to referrals.
 
