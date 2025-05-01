@@ -51,9 +51,9 @@ Here are the key takeaways:
 
 (49:36) Balancing family and business for long-term success
 
-(51:28) Can saying "no" drive business growth?
+(51:28) Can saying “no” drive business growth?
 
-Tune in to hear how Mike's approach to life and business challenges can inspire you to take bold steps, embrace the unknown, and focus on creating long-term success.
+Tune in to hear how Mike’s approach to life and business challenges can inspire you to take bold steps, embrace the unknown, and focus on creating long-term success.
 
 About Mike Schumm
 
