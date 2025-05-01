@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How One Agent Closed $6M in Just 4 Months
+title: How Sam Doubled His Business and  Made $150k in 90 Days
 date: 2025-04-30 05:00:00
 excerpt: >-
   This success didn’t happen by chance—clear goals and the right systems made it
