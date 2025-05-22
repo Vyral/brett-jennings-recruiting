@@ -25,7 +25,7 @@ I know prospecting can feel awkward. Whether it’s cold calling, knocking on do
 
 **2\. Don’t be someone you’re not**. Please don’t turn into the overly scripted robot voice. No one wants to talk to someone who sounds like they’re reading a script for the first time. Use scripts, but make them sound like you. Practice until the words feel natural in your voice. Adjust the tone, pace, and phrasing to match your personality. And if you feel nervous before dialing, take a breath, loosen up, and go for it anyway.
 
-**3\. Don’t go for a Yes. Go for No! Don’t be afraid to fail.** Here’s the truth: this is a numbers game. Some people will hang up. Some won’t call back. That’s part of the job. In fact, if you want a great mindset hack for prospecting look at your numbers and figure out how many people say "no" before you get a "yes" for an appointment. How many appointments do you need to get to a closing, and how much is a closing worth?
+**3\. Don’t go for a Yes. Go for No! Don’t be afraid to fail.** Here’s the truth: this is a numbers game. Some people will hang up. Some won’t call back. That’s part of the job. In fact, if you want a great mindset hack for prospecting look at your numbers and figure out how many people say “no” before you get a “yes” for an appointment. How many appointments do you need to get to a closing, and how much is a closing worth?
 
 When I ran my numbers, I figured out that I need to get 29 “no’s” before I get a “yes” for an appointment. I need 4 appointments to get one closing. That means I have to get 119 “no’s” to land one closing—and the average closing is worth $30,000. So every “no” is actually worth $250 to me.
 
