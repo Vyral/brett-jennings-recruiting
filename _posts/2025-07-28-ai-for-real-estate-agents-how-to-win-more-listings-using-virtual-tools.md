@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AI for Real Estate Agents: How To Win More Listings Using Virtual Tools'
+title: ' How To Win More Listings Using AI Tools'
 date: 2025-07-28 05:00:00
 excerpt: >-
   AI and virtual tools are helping real estate agents save time, close more
